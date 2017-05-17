@@ -6,7 +6,7 @@
 > 翻译：叶v  
 > [原文出處](https://www.slideshare.net/doennebrink/platform-cooperativism-60904094)
 
-本文包括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次\#platformCoopBerlin”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场\#PlatformCoopX会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
+括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次\#platformCoopBerlin”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场\#PlatformCoopX会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
 
 ![](https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/04/图1.png?w=1490)
 
