@@ -1,5 +1,6 @@
 # Summary
 
+* [手册介绍](README.md)
 * [什么是平台合作主义？](shi-yao-shi-ping-tai-he-zuo-zhu-yi-ff1f.md)
   * 平台合作主义挑战企业分享经济
   * 平台合作主义vs共享经济
@@ -20,5 +21,4 @@
 * [附录](fu-lu.md)
   * [“造反城市”的合作社平台联合起来——Trebor Scholz](fu-lu/201c-zao-fan-cheng-shi-201d-de-he-zuo-she-ping-tai-lian-he-qi-lai-2014-2014-trebor-scholz.md)
   * 我们合作社吧
-* [手册介绍](README.md)
 
