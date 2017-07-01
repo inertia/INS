@@ -26,7 +26,9 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 
 ![](/assets/图4.png)
 
-## ![](https://i2.wp.com/www.shareable.net/sites/default/files/styles/large/public/Screen%20Shot%202016-10-11%20at%2012.09.38%20PM.png?zoom=2&resize=490%2C300)
+## ![](https://i2.wp.com/www.shareable.net/sites/default/files/styles/large/public/Screen Shot 2016-10-11 at 12.09.38 PM.png?zoom=2&resize=490%2C300)
+
+## ![](https://i0.wp.com/www.shareable.net/sites/default/files/styles/large/public/CoLabcoop_office.jpg?zoom=2&resize=490%2C327)
 
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
