@@ -20,15 +20,8 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 
 沿着这一传统，首届柏林平台合作社（\#PlatformCoopBerlin）会议在柏林新SUPERMARKT举行。 它是由SUPERMARKT团队，[OuiShare Conectors](http://ouishare.net/en/about/team)和[Heinrich Boell-Foundation](http://www.boell.de/)的共同努力而促成并组织的。 Michel Bauwens被邀请做主旨演讲。 有限的空间中已经坐满了受邀参与者，但还是有另外50人参加（预期最多30人）。
 
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图2.png?w=712)
+![](/assets/pic2.jpg)
 
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图3.png?w=716)
-
-![](/assets/图4.png)
-
-## ![](https://i2.wp.com/www.shareable.net/sites/default/files/styles/large/public/Screen Shot 2016-10-11 at 12.09.38 PM.png?zoom=2&resize=490%2C300)
-
-## ![](https://i0.wp.com/www.shareable.net/sites/default/files/styles/large/public/CoLabcoop_office.jpg?zoom=2&resize=490%2C327)
 
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
