@@ -9,7 +9,7 @@
   * [国际联盟齐聚第二届平台合作主义大会](hu-tuo-bang-he-zuosong-code-for-co-ops/guo-ji-da-shi/guo-ji-lian-meng-qi-ju-di-er-jie-ping-tai-he-zuo-zhu-yi-da-hui.md)
 * [行动](xing-dong.md)
   * 平台合作社如何干掉死星Uber们，创造真正的共享经济
-  * 艺术合作社与集体创新动员的力量
+  * [艺术合作社与集体创新动员的力量](xing-dong/yi-zhu-he-zuo-she-yu-ji-ti-chuang-xin-dong-yuan-de-li-liang.md)
 * [响应](xiang-ying.md)
   * [沪托邦合作松 Code for Co-ops](hu-tuo-bang-he-zuosong-code-for-co-ops.md)
     * [三个开放合作运动在香港的实践，来自阮耀启博士的分享](hu-tuo-bang-he-zuosong-code-for-co-ops/san-ge-kai-fang-he-zuo-yun-dong-zai-xiang-gang-de-shi-jian-ff0c-lai-zi-ruan-yao-qi-bo-shi-de-fen-xiang.md)
