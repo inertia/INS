@@ -1,4 +1,13 @@
-# 平台合作主义：一场正在崛起的国际运动
+# 平台合作主义：一场正在崛起的国际运动&lt;
+
+```
+center
+>
+這有置中
+<
+/center
+>
+```
 
 > 2016年3月4日@SUPERMARKT  
 > 第一次柏林平台合作社活动印象  
@@ -25,10 +34,6 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 ![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图3.png?w=716)
 
 ![](/assets/图4.png)
-
-```
-![Michel Bauwens](../assets/图4.png)
-```
 
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
