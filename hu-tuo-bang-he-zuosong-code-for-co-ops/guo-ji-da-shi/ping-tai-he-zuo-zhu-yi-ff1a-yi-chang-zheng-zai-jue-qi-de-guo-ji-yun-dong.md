@@ -100,8 +100,10 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 如果你想结合三点：可持续性，开放性，团结协作 ，但目前还没有钱这么干。 所以很多工作有待完成。 然而，已经有很多的知识和经验累积。 在P2P基金会（[P2P foundation](http://p2pfoundation.net/)），[Commons transition](http://commonstransition.org/)等上有超过20,000关于转型的文章。 而Michel则提出了向[Sensorica](http://p2pfoundation.net/Sensorica)，[Ethos](http://p2pfoundation.net/Ethos)，[Enspiral](http://p2pfoundation.net/Enspiral)，[Las Indias](http://p2pfoundation.net/Las_Indias)这样的例子学习的建议。 已经实验中的联盟，它们做得很好并在不断壮大。 这不是乌托邦，这是真实的，但我们需要传播这些知识。 转型已经开始，我们需要加快速度，因为我们没有那么多时间。
 
 ```markdown
- <img src="../assets/3.3.6.jpg" alt="Cowman" width="240" height="180" border="10" />
+<img src="assets/3.3.6.jpg" alt="3.3.6" title="3.3.6" width="500" height="659">
 ```
+
+
 
 ## **\#platformCoopBerlin第一次会议报告**
 
