@@ -8,7 +8,7 @@
 
 括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次\#platformCoopBerlin”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场\#PlatformCoopX会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
 
-![](https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/04/图1.png?w=1490)
+![](/assets/图1.png)
 
 ## **平台合作主义的近况**
 
@@ -22,11 +22,9 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 
 沿着这一传统，首届柏林平台合作社（\#PlatformCoopBerlin）会议在柏林新SUPERMARKT举行。 它是由SUPERMARKT团队，[OuiShare Conectors](http://ouishare.net/en/about/team)和[Heinrich Boell-Foundation](http://www.boell.de/)的共同努力而促成并组织的。 Michel Bauwens被邀请做主旨演讲。 有限的空间中已经坐满了受邀参与者，但还是有另外50人参加（预期最多30人）。
 
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图2.png?w=712)
-
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图3.png?w=716)
-
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图4.png?w=718)
+![](/assets/图2.png)
+![](/assets/图3.png)
+![](/assets/图4.png)
 
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
@@ -89,7 +87,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 据Michel，我们需要为这三点而努力：可持续性，开放性，团结协作，尤其需要连接三者从而创造自由、公平、可持续的生产和分配。自然蕴藏丰富，只要明智地利用，足以满足每个人的需求。将富足的自然、知识等转化为市场上的商品，资本主义是一项匮乏的工程。分配极度不公平：全世界的不平等在增长。因此我们需要一个系统响应以上三点。我们必须一起工作。因此一堆意大利的CSA订货软件应该互相沟通，并且创建一个开源平台，在平台上共享基础设施投资。
 
-![](https://i0.wp.com/caa-ins.org/wp-content/uploads/2017/04/图5.png?w=714)
+![](/assets/图5.png)
 
 ## **开放性的需求和潜力**
 
@@ -98,8 +96,6 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 团结协作经济也是同样的。 如果你是一个团结协作公司，却私有化你的知识，很可惜，你玩了假游戏，与资本主义相同的游戏。 沟通你的知识，贡献更多的价值，比私有公司更有意义，因为你分享你的知识，这个生态系统中的每个人都可以使用你的创新。 再以维基汽车为例，他们能每周发布一个新的设计。 那大众汽车怎样呢？ 你懂的。
 
 如果你想结合三点：可持续性，开放性，团结协作 ，但目前还没有钱这么干。 所以很多工作有待完成。 然而，已经有很多的知识和经验累积。 在P2P基金会（[P2P foundation](http://p2pfoundation.net/)），[Commons transition](http://commonstransition.org/)等上有超过20,000关于转型的文章。 而Michel则提出了向[Sensorica](http://p2pfoundation.net/Sensorica)，[Ethos](http://p2pfoundation.net/Ethos)，[Enspiral](http://p2pfoundation.net/Enspiral)，[Las Indias](http://p2pfoundation.net/Las_Indias)这样的例子学习的建议。 已经实验中的联盟，它们做得很好并在不断壮大。 这不是乌托邦，这是真实的，但我们需要传播这些知识。 转型已经开始，我们需要加快速度，因为我们没有那么多时间。
-
-![](https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/04/图6.png?w=910)
 
 ## **\#platformCoopBerlin第一次会议报告**
 
@@ -154,15 +150,11 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 （[https://docs.google.com/document/d/1zNfhVOuggfGOzrMsFDpiIgECUS5ZwR8G9n0LtuvTwrM/edit](https://docs.google.com/document/d/1zNfhVOuggfGOzrMsFDpiIgECUS5ZwR8G9n0LtuvTwrM/edit)）
 
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图7.png?w=718)
-
 ## **开放barcamp工作组都关于什么？**
 
 ### 1,为什么是平台？集中的平台vs分散的网络
 
 几乎每个人都喜欢合作主义的概念，但有些人也批评平台的概念。 诸如Jolocom等倡议者力求分散的、自主的节点，赞成网络概念，而不是集中的平台。 来自Fairmondo的Felix Weth应对挑战，并为争论带来了另一个视角：我们必须格局宏达，才能真正替代私有的大型用户平台。这些是该工作组讨论的主要问题：我们能通过创建自己的平台来击败跨国公司吗？ 在运营快速成长的国际平台时，我们是否愿意遵守我们的开放和安全原则？ 分散的自治组织网络是唯一可行和可持续的解决方案吗？
-
-![](https://i0.wp.com/caa-ins.org/wp-content/uploads/2017/04/图8.png?w=718)
 
 ### 2，图绘生态系统：人员和平台概述
 
@@ -180,9 +172,6 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 第五组面对另一个大话题：可持续性。以可持续性为主要标准当然重要，行动者自身的持续同样重要，需要避免耗尽自己。 这一组提议创建一个社会宪章，涉及一系列价值和衡量标准，要贯彻到任何行动中。
 
-![](https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/04/图9.png?w=712)
-
-![](https://i2.wp.com/caa-ins.org/wp-content/uploads/2017/04/图10.png?w=1494)
 
 ## **如何整合合作社服务的用户？如何创建共伴的原则？**
 

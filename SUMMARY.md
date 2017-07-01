@@ -1,9 +1,10 @@
 # Summary
 
+* [前言](qian-yan.md)
 * [目录](README.md)
 * [什么是平台合作主义？](shi-yao-shi-ping-tai-he-zuo-zhu-yi-ff1f.md)
-  * 平台合作主义挑战企业分享经济
-  * 平台合作主义vs共享经济
+  * [平台合作主义挑战企业分享经济](shi-yao-shi-ping-tai-he-zuo-zhu-yi-ff1f/ping-tai-he-zuo-zhu-yi-tiao-zhan-qi-ye-fen-xiang-jing-ji.md)
+  * [平台合作主义vs共享经济](shi-yao-shi-ping-tai-he-zuo-zhu-yi-ff1f/ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 * [国际大势](hu-tuo-bang-he-zuosong-code-for-co-ops/guo-ji-da-shi.md)
   * [平台合作主义：一场正在崛起的国际运动](hu-tuo-bang-he-zuosong-code-for-co-ops/guo-ji-da-shi/ping-tai-he-zuo-zhu-yi-ff1a-yi-chang-zheng-zai-jue-qi-de-guo-ji-yun-dong.md)
   * [国际联盟齐聚第二届平台合作主义大会](hu-tuo-bang-he-zuosong-code-for-co-ops/guo-ji-da-shi/guo-ji-lian-meng-qi-ju-di-er-jie-ping-tai-he-zuo-zhu-yi-da-hui.md)
@@ -20,5 +21,5 @@
   * [分享经济与赛博中介](fen-xiang-jing-ji-yu-sai-bo-zhong-jie.md)
 * [附录](fu-lu.md)
   * “造反城市”的合作社平台联合起来——Trebor Scholz
-  * 我们合作社吧
+  * [我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
 
