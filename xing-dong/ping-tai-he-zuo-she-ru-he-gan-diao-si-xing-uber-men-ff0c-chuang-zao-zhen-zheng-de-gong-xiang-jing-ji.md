@@ -2,7 +2,7 @@
 
 ![](/assets/4.1.1.jpg)
 
-_雅汶之战，第一颗死星被干掉（_[_http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo）_](http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo）)
+_雅汶之战，第一颗死星被干掉\(_[_http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo_](http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo）)_\)_
 
 > 作者：[Neal Gorenflo](http://www.shareable.net/users/neal-gorenflo)
 >
@@ -124,9 +124,5 @@ Paypal的创始人，同时也是主要的共享经济风险投资人Peter Thiel
 
 我们的胜算和天行者面对死星时的胜算一样，致胜法宝也一样。我们必须动用原力，但这次不是什么神秘能量，而是我们。
 
-
-
 [^1]: 加州意识形态， 由Richard Barbrook和Andy Cameron1995年提出，批判“.com新自由主义”，文章中两人认为，硅谷在九十年代兴起的互联网技术与美国新自由主义有联系，与一种悖谬的左派与右派共有的乐观技术决定论有关
-
-[^2]: 1099合同工是美国的一个法律和税务术语，这些合同工在很多领域工作，如医疗规划师，市场顾问，建筑承包商，自由撰稿人。一个1099合同工不是某个他为之工作的企业的员工，他是独立合同工或顾问，他被视为自雇者。和大多数自雇者一样，他们没有典型的员工福利，比如医疗保险或退休福利，但他们拥有更弹性的工作安排和工作地点。1099合同工通常不受最低工资法律保护，事实上，一些独立合同工的收入低于最低工资。他的收入通常由工作竞争来决定，而非工作小时——当一项工作高于预期时间，收入就可能降至最低工资以下。也有技术熟练的独立合同工可以获得远超最低工资的收入，尤其是他专精某个领域，作为顾问的时候
 
