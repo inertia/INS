@@ -3,7 +3,7 @@
 ## 什么是平台合作主义
 
 * [平台合作主义挑战企业分享经济](README.md)
-* 平台合作主义vs共享经济
+* [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
 ## 国际大势
 
@@ -29,3 +29,4 @@
 
 * [“造反城市”的合作社平台联合起来——Trebor Scholz](fu-lu/201c-zao-fan-cheng-shi-201d-de-he-zuo-she-ping-tai-lian-he-qi-lai-2014-2014-trebor-scholz.md)
 * [我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
+
