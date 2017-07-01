@@ -6,7 +6,7 @@
 >
 > 翻译卢睿洋
 
-对“集体共享经济”对待劳动者的恶劣行为的抵制如火如荼。最近华盛顿邮报、纽约时报和其他报纸开始炮轰在线劳动经纪公司如Taskrabbit、Handy和Uber，因为它们极端缺乏对劳工的关怀。在最近的数码劳工大会上，我的同事McKenzie Wark说，我们逐渐走入的这些生产模式并非经典的资本主义。“这不是资本主义，比它更糟糕”他说[\[1\]](#_ftn1)。
+对“集体共享经济”对待劳动者的恶劣行为的抵制如火如荼。最近华盛顿邮报、纽约时报和其他报纸开始炮轰在线劳动经纪公司如Taskrabbit、Handy和Uber，因为它们极端缺乏对劳工的关怀。在最近的数码劳工大会上，我的同事McKenzie Wark说，我们逐渐走入的这些生产模式并非经典的资本主义。“这不是资本主义，比它更糟糕”他说[^1]。
 
 但是，让我们有片刻的想象：这些反工会主义的堡垒的算法核心是可以被复制并用于另一种所有权模式，在公平的工作条件下，成为一种对自由市场模型的人性化替代方案。
 
@@ -72,23 +72,23 @@ Uber和airbub一类公司享受着他们的安迪沃霍尔时刻：没有任何�
 
 在纽约，有一个24个工人-所有合作社的联盟，几乎由女性组成。过去几年中，低收入的工人加入这些合作社后，每小时的工资由10美金增长到25美金。
 
-像Yochai Benkler和[Michel Bauwens](http://p2pfoundation.net/)他们已经宣传这种模式很久了。对Bauwens而言，点对点经济模式依靠平等伙伴的自由参与，致力于生产公共资源。对Benkler而言，点的网络化生产是协力合作的行动，贯彻了彻底分散式、非－市场的机制[\[2\]](#_ftn2)。
+像Yochai Benkler和[Michel Bauwens](http://p2pfoundation.net/)他们已经宣传这种模式很久了。对Bauwens而言，点对点经济模式依靠平等伙伴的自由参与，致力于生产公共资源。对Benkler而言，点的网络化生产是协力合作的行动，贯彻了彻底分散式、非－市场的机制[^2]。
 
-在《改造一切This Changes Everything》[\[3\]](#_ftn3)中，Naomi Klein回述了她在阿根廷两年的生活经历，拍摄了一部关于工人在这座城市遭受2001年经济危机后把他们被遗弃的老工厂改造成合作社的纪录片。她的纪录片名为《夺取The Take》，线索是一组工人接手了被关闭的汽车配件厂并将其转变为生机勃勃的合作社。工人们承担着巨大风险，坚持了10年之久，如今工厂依然强健。事实上，阿根廷有上百个工人运营的合作社，其中大部分今天依然从事着生产。
+在《改造一切This Changes Everything》[^3]中，Naomi Klein回述了她在阿根廷两年的生活经历，拍摄了一部关于工人在这座城市遭受2001年经济危机后把他们被遗弃的老工厂改造成合作社的纪录片。她的纪录片名为《夺取The Take》，线索是一组工人接手了被关闭的汽车配件厂并将其转变为生机勃勃的合作社。工人们承担着巨大风险，坚持了10年之久，如今工厂依然强健。事实上，阿根廷有上百个工人运营的合作社，其中大部分今天依然从事着生产。
 
-在英国，目前有20万人在超过400个工人合作社中工作。这些合作社有超过160年的历史。其中最大的一家营业额达两千四百万英镑。蒙德拉贡，一个常常提及的例子，是一个合作社，一个工人合作社联盟（Federation of Worker Cooperatives），于1965年在西班牙的巴斯克地区成立。蒙德拉贡是工人所有的，但不是工人管理的；它是更大的竞争市场[\[4\]](#_ftn4)的一部分。2013年末，它的雇员达74061人，从事金融、零售和教育领域。蒙德拉贡合作社由一个人道主义式的商业概念凝聚起来。合作社的总经理的平均工资不会超过合作社中收入最低的成员的五倍（而沃尔玛的CEO的收入是其工人平均水平的1034倍）。如你所想，对平台资本主义的合作社式替代方案绝非只能用于运输行业。
+在英国，目前有20万人在超过400个工人合作社中工作。这些合作社有超过160年的历史。其中最大的一家营业额达两千四百万英镑。蒙德拉贡，一个常常提及的例子，是一个合作社，一个工人合作社联盟（Federation of Worker Cooperatives），于1965年在西班牙的巴斯克地区成立。蒙德拉贡是工人所有的，但不是工人管理的；它是更大的竞争市场[^4]的一部分。2013年末，它的雇员达74061人，从事金融、零售和教育领域。蒙德拉贡合作社由一个人道主义式的商业概念凝聚起来。合作社的总经理的平均工资不会超过合作社中收入最低的成员的五倍（而沃尔玛的CEO的收入是其工人平均水平的1034倍）。如你所想，对平台资本主义的合作社式替代方案绝非只能用于运输行业。
 
 基于app、工人－所有的劳动经纪业使得工人可以交换他们的劳动力而避免中介操作。它们适于小型工作，尤其是那些在Mechanical Turk和CrowdFlower上的工作。
 
 让我们说句公道话。平台合作主义等于更加人性化的工作场所，对工人有切实的好处。他们认为钱说了算，而我要说，平台合作主义可以激励真正的共享，而且并不需要拒绝市场。平台合作主义是治疗腐败的资本主义的良药；它提醒人们工作是有尊严的，而非贬低人性的。合作社并非克服平台资本主义的万能药，但它可以为21世纪的工作织入一些伦理的纤维。
 
----
 
-[\[1\]](#_ftnref1)Wark, McKenzie.“Digital Labor and the Anthropocene.” «DIS Magazine. N.p., n.d. Web. 29 Nov. 2014.
 
-[\[2\]](#_ftnref2)[http://cyber.law.harvard.edu/wealth\_of\_networks/Paragraphs](http://cyber.law.harvard.edu/wealth_of_networks/Paragraphs)
+[^1]: Wark, McKenzie.“Digital Labor and the Anthropocene.” «DIS Magazine. N.p., n.d. Web. 29 Nov. 2014.
 
-[\[3\]](#_ftnref3)Klein, Naomi. This Changes Everything: Capitalism vs. The Climate. Simon & Schuster, 2014. Print. 105.
+[^2]: [http://cyber.law.harvard.edu/wealth\_of\_networks/Paragraphs](http://cyber.law.harvard.edu/wealth_of_networks/Paragraphs)
 
-[\[4\]](#_ftnref4)Cheney, George. Values at Work: Employee Participation Meets Market Pressure at Mondragon. ILR Books/Cornell University Press, 1999. Web. 29 Nov. 2014.
+[^3]: Klein, Naomi. This Changes Everything: Capitalism vs. The Climate. Simon & Schuster, 2014. Print. 105.
+
+[^4]: Cheney, George. Values at Work: Employee Participation Meets Market Pressure at Mondragon. ILR Books/Cornell University Press, 1999. Web. 29 Nov. 2014.
 
