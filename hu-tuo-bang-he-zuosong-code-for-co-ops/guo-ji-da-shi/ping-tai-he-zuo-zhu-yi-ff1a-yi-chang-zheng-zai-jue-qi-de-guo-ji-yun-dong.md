@@ -8,8 +8,6 @@
 
 括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次\#platformCoopBerlin”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场\#PlatformCoopX会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
 
-
-
 ## **平台合作主义的近况**
 
 纽约新学院（New School in New York City）文化和媒体系副教授Trebor Scholz首先将平台合作主义的概念提上日程。 Trebor说，“平台合作主义复制在线平台的技术核心，并将它放入合作模型，这种模型使工人、所有者、社群和城市团结协作，并导向政治权力”。 更多信息，请参阅Trebor Scholz的读本：[平台合作主义](https://pan.baidu.com/s/1hsEBLGC)。
@@ -26,7 +24,7 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 
 ![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图3.png?w=716)
 
-![](https://i1.wp.com/caa-ins.org/wp-content/uploads/2017/04/图4.png?w=718)
+![](/assets/图4.png)
 
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
