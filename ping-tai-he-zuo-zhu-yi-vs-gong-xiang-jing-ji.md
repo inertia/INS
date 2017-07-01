@@ -1,3 +1,5 @@
+
+
 平台合作主义vs共享经济
 
 作者Trebor Scholz
@@ -5,8 +7,6 @@
 2014年12月6日
 
 翻译卢睿洋
-
-
 
 对“集体共享经济”对待劳动者的恶劣行为的抵制如火如荼。最近华盛顿邮报、纽约时报和其他报纸开始炮轰在线劳动经纪公司如Taskrabbit、Handy和Uber，因为它们极端缺乏对劳工的关怀。在最近的数码劳工大会上，我的同事McKenzie Wark说，我们逐渐走入的这些生产模式并非经典的资本主义。“这不是资本主义，比它更糟糕”他说[\[1\]](#_ftn1)。
 
@@ -87,6 +87,18 @@ Uber和airbub一类公司享受着他们的安迪沃霍尔时刻：没有任何�
 基于app、工人－所有的劳动经纪业使得工人可以交换他们的劳动力而避免中介操作。它们适于小型工作，尤其是那些在Mechanical Turk和CrowdFlower上的工作。
 
 让我们说句公道话。平台合作主义等于更加人性化的工作场所，对工人有切实的好处。他们认为钱说了算，而我要说，平台合作主义可以激励真正的享，而且并不需要拒绝市场。平台合作主义是治疗腐败的资本主义的良药；它提醒人们工作是有尊严的，而非贬低人性的。合作社并非克服平台资本主义的万能药，但它可以为21世纪的工作织入一些伦理的纤维。
+
+
+
+像Yochai Benkler和[Michel Bauwens](http://p2pfoundation.net/)他们已经宣传这种模式很久了。对Bauwens而言，点对点经济模式依靠平等伙伴的自由参与，致力于生产公共资源。对Benkler而言，点的网络化生产是协力合作的行动，贯彻了彻底分散式、非－市场的机制[\[2\]](http://caa-ins.org/archives/612?preview_id=612&preview_nonce=5d35be6ce1&post_format=standard&_thumbnail_id=617&preview=true#_ftn2)。
+
+在《改造一切This Changes Everything》[\[3\]](http://caa-ins.org/archives/612?preview_id=612&preview_nonce=5d35be6ce1&post_format=standard&_thumbnail_id=617&preview=true#_ftn3)中，Naomi Klein回述了她在阿根廷两年的生活经历，拍摄了一部关于工人在这座城市遭受2001年经济危机后把他们被遗弃的老工厂改造成合作社的纪录片。她的纪录片名为《夺取The Take》，线索是一组工人接手了被关闭的汽车配件厂并将其转变为生机勃勃的合作社。工人们承担着巨大风险，坚持了10年之久，如今工厂依然强健。事实上，阿根廷有上百个工人运营的合作社，其中大部分今天依然从事着生产。
+
+
+
+
+
+
 
 ---
 
