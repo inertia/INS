@@ -2,7 +2,7 @@
 
 > 作者：Darren Sharp
 >
-> [原文链接](/h ttp://www.shareable.net/blog/international-consortium-launched-at-second-platform-cooperativism-conference)
+> [原文链接](http://www.shareable.net/blog/international-consortium-launched-at-second-platform-cooperativism-conference)
 >
 > 翻译：卢睿洋
 
