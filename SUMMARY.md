@@ -20,5 +20,5 @@
 * [附录](fu-lu.md)
   * [“造反城市”的合作社平台联合起来——Trebor Scholz](fu-lu/201c-zao-fan-cheng-shi-201d-de-he-zuo-she-ping-tai-lian-he-qi-lai-2014-2014-trebor-scholz.md)
   * 我们合作社吧
-* [目录](README.md)
+* [手册介绍](README.md)
 
