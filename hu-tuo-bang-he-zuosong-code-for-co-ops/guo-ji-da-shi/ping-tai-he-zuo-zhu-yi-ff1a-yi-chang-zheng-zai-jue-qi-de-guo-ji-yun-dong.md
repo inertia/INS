@@ -26,6 +26,10 @@ Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（Universit
 
 ![](/assets/图4.png)
 
+```
+![Michel Bauwens](../assets/图4.png)
+```
+
 ## **Michel Bauwens 对平台合作主义的看法：它是什么？为什么它重要？**
 
 （由他的演示文本编辑）
