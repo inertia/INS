@@ -6,7 +6,7 @@
 > 翻译：叶v  
 > [原文出處](https://www.slideshare.net/doennebrink/platform-cooperativism-60904094)
 
-括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次\#platformCoopBerlin”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场\#PlatformCoopX会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
+括平台合作主义概念介绍以及主要行动者、活动和延伸读物的链接。 您还能在“第一次`#platformCoopBerlin`”标签下找到2016年3月4日发布的会议报告，包括本次集会中Michel Bauwen的演讲稿。 想要对平台合作主义有基本的或进一步的理解，这篇文章可能对你有用。 打算在自己的城市组织一场`#PlatformCoopX`会议，或研究该主题的人，也能找到有用的信息，链接和联系方式。
 
 ## ![](/assets/3.1.1.jpg)
 
@@ -14,15 +14,15 @@
 
 纽约新学院（New School in New York City）文化和媒体系副教授Trebor Scholz首先将平台合作主义的概念提上日程。 Trebor说，“平台合作主义复制在线平台的技术核心，并将它放入合作模型，这种模型使工人、所有者、社群和城市团结协作，并导向政治权力”。 更多信息，请参阅Trebor Scholz的读本：[平台合作主义](https://pan.baidu.com/s/1hsEBLGC)。
 
-Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（University of Colorado Boulder）媒体研究客座助理教授兼记者】发起了“平台合作主义-网络.所有权.民主（Platform Cooperativism The Internet. Ownership. Democracy ）[大会](http://platformcoop.net/)， 于2015年11月在纽约市举办。 这次活动约有100位[参与者](http://platformcoop.net/participants)，每天都有1000多名编程人员、设计师、学者和研究人员，工人合作社成员以及平台创建者（平台由工人/参与者拥有并管理）慕名而来。1800位网友关注推特账号 @platformcoop，标签\#platformcoop在11月13日持续5小时在全国热搜版上。 这次会议如愿成为“合作互联网的亮相”，不仅传播了平台合作主义的概念，还生发了关于新的、重要的对经济和社会的政治面向的详细讨论。
+Trebor Scholz和Nathan Schneider【科罗拉多大学博尔德分校（University of Colorado Boulder）媒体研究客座助理教授兼记者】发起了“平台合作主义-网络.所有权.民主（Platform Cooperativism The Internet. Ownership. Democracy ）[大会](http://platformcoop.net/)， 于2015年11月在纽约市举办。 这次活动约有100位[参与者](http://platformcoop.net/participants)，每天都有1000多名编程人员、设计师、学者和研究人员，工人合作社成员以及平台创建者（平台由工人/参与者拥有并管理）慕名而来。1800位网友关注推特账号 @platformcoop，标签`#platformcoop`在11月13日持续5小时在全国热搜版上。 这次会议如愿成为“合作互联网的亮相”，不仅传播了平台合作主义的概念，还生发了关于新的、重要的对经济和社会的政治面向的详细讨论。
 
 ![](/assets/3.1.2.jpg)
 
-第一届柏林当地平台合作社（＃Platformcoop）会议推动者Thomas Dönnebrink和Michel Bauwens还发起了关于“为共同经济而设的另类基础设施环境下的[平台合作主义](http://platformcoop.net/schedule/special-lunch-session-with-michel-bauwens)”的会议，通过这次会议，他们试图汇集合作经济、合作主义和开源数据、开源知识运动。 （记录：[演示](http://de.slideshare.net/doennebrink/platform-cooperativism-special-lunch-session-with-michel-bauwens-response-thomas-dnnebrink-european-experiments-with-worker-ownership-and-selfgovernance-55554223/)[视频](https://livestream.com/internetsociety/platformcoop/videos/105677936)）。
+第一届柏林当地平台合作社（`＃Platformcoop`）会议推动者Thomas Dönnebrink和Michel Bauwens还发起了关于“为共同经济而设的另类基础设施环境下的[平台合作主义](http://platformcoop.net/schedule/special-lunch-session-with-michel-bauwens)”的会议，通过这次会议，他们试图汇集合作经济、合作主义和开源数据、开源知识运动。 （记录：[演示](http://de.slideshare.net/doennebrink/platform-cooperativism-special-lunch-session-with-michel-bauwens-response-thomas-dnnebrink-european-experiments-with-worker-ownership-and-selfgovernance-55554223/)[视频](https://livestream.com/internetsociety/platformcoop/videos/105677936)）。
 
 而且，\(热情\)没有随着会议结束而停止：与会者将势头带到接下来的活动中，如[巴塞罗那](https://www.facebook.com/events/1549138392080735/)，[马德里](https://www.facebook.com/events/1214916565193042/)，[巴达霍斯](http://espacioconvento.com/blog/4-oportunidades-y-1-reto-de-la-economia-colaborativa-para-nuestras-ciudades-y-territorios/)的[OuiShareFest BCN](http://ouisharefestbcn2015.sched.org/event/4bQp/inmersion-en-las-plataformas-cooperativas-digitales%29)举办的工作坊、聚会或演讲，或是关于这一主题的出版物 ，在柏林的第一次活动之前陈述我们的事业。 此外，所有权的互联网（the Internet of ownership）作为“在线民主生态系统的指南”，由Nathan Schneider发起，在该网站上展示了更多的活动和组织。
 
-沿着这一传统，首届柏林平台合作社（\#PlatformCoopBerlin）会议在柏林新SUPERMARKT举行。 它是由SUPERMARKT团队，[OuiShare Conectors](http://ouishare.net/en/about/team)和[Heinrich Boell-Foundation](http://www.boell.de/)的共同努力而促成并组织的。 Michel Bauwens被邀请做主旨演讲。 有限的空间中已经坐满了受邀参与者，但还是有另外50人参加（预期最多30人）。
+沿着这一传统，首届柏林平台合作社（`#PlatformCoopBerlin`）会议在柏林新SUPERMARKT举行。 它是由SUPERMARKT团队，[OuiShare Conectors](http://ouishare.net/en/about/team)和[Heinrich Boell-Foundation](http://www.boell.de/)的共同努力而促成并组织的。 Michel Bauwens被邀请做主旨演讲。 有限的空间中已经坐满了受邀参与者，但还是有另外50人参加（预期最多30人）。
 
 ![](/assets/3.1.3.jpg)
 
@@ -52,7 +52,9 @@ Michel比较了与10世纪伟大历史变革相伴的大转型
 
 在这些空间里活跃着许多人及大量组织和自发者，但问题是他们是分散的。 Michel提到了用于订购社区支持农业（community support agriculture）的食物的软件，仅在意大利就有12个不同的。 在地化是好的，但如果我们没有办法去连接和协作以形成强大的社会力量，我们就会输。 这是转型期的故事：要改变游戏规则。
 
-### **朝着开放价值创造的转变：共同者（commoners）vs网络等级制资本主义（netarchical capitalism）**
+### **朝着开放价值创造的转变：**
+
+### **共同者（commoners）vs网络等级制资本主义（netarchical capitalism）**
 
 而据Michel，游戏改变者朝着开放价值创造转变。 目前的制度认为私人劳动和私人资本是价值创造者，即市场价值。
 
@@ -158,25 +160,25 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 ## **开放barcamp工作组都关于什么？**
 
-### 1,为什么是平台？集中的平台vs分散的网络
+### 1. 为什么是平台？集中的平台vs分散的网络
 
 几乎每个人都喜欢合作主义的概念，但有些人也批评平台的概念。 诸如Jolocom等倡议者力求分散的、自主的节点，赞成网络概念，而不是集中的平台。 来自Fairmondo的Felix Weth应对挑战，并为争论带来了另一个视角：我们必须格局宏达，才能真正替代私有的大型用户平台。这些是该工作组讨论的主要问题：我们能通过创建自己的平台来击败跨国公司吗？ 在运营快速成长的国际平台时，我们是否愿意遵守我们的开放和安全原则？ 分散的自治组织网络是唯一可行和可持续的解决方案吗？
 
 ![](/assets/3.1.8.jpg)
 
-### 2，图绘生态系统：人员和平台概述
+### 2. 图绘生态系统：人员和平台概述
 
 在这组，Adrien Labaeye呼吁团体开始绘制平台生态系统。 “我们必须知道哪里有什么，我们可以与谁合作”。他是[transformap](http://transformap.co/)庞大工作组中的一员，那是一个技术-社会架构，致力于共同转型的可视化。 工作组试图定义基本标准，以此收集数据创建地图。Adrien Labaeye介绍了第一个元地图（[metamap](https://metamaps.cc/maps/1934)），囊括了平台合作社领域或相关领域的概念、工具、目录、行动家、平台、运动、基金会和其他实体。
 
-### 3，连结生态系统－现有平台的协同工作能力
+### 3. 连结生态系统－现有平台的协同工作能力
 
 这一组，主要由各种现有平台的程序员组成，讨论了平台之间的协同工作能力和协作条款、机遇和困难。 其中一个结论是，技术和人际问题都是建立合作和合作思维的关键。 进一步的合作指日可待。
 
-### 4，城际联盟
+### 4. 城际联盟
 
 讨论了组建城际联盟的愿景，城际协力，通过开源及开放式制作者（open makers ）运动为公民创造一个平台，确保在平台上或通过平台产生的资金/价值扎根在该地区。 由于单个人单一时间只能待在一个城市，开发昂贵的专利相互竞争没什么意义，并不明智，所以城市联盟开始集资基建，协同创建共同的核心平台，这才是理想的、合理的。 基于公平和团结，富裕的城市和实体将贡献更多，贫穷的相对更少。 最后，每个成员都献出所能，汲取所需。
 
-### 5，可持续性
+### 5. 可持续性
 
 第五组面对另一个大话题：可持续性。以可持续性为主要标准当然重要，行动者自身的持续同样重要，需要避免耗尽自己。 这一组提议创建一个社会宪章，涉及一系列价值和衡量标准，要贯彻到任何行动中。
 
