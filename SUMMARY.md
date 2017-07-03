@@ -14,6 +14,15 @@
     * [新从属和新指挥](gong-xiang-jing-ji-de-zhan-dian/xin-cong-shu-he-xin-zhi-hui.md)
     * [为少数人生利](gong-xiang-jing-ji-de-zhan-dian/wei-shao-shu-ren-sheng-li.md)
     * [违法成为一种途径](gong-xiang-jing-ji-de-zhan-dian/wei-fa-cheng-wei-yi-zhong-tu-jing.md)
+  * [亚马逊正在进入共享经济](ya-ma-xun-zheng-zai-jin-ru-gong-xiang-jing-ji.md)
+  * [平台合作化的崛起](ping-tai-he-zuo-hua-de-jue-qi.md)
+  * [平台合作社的类型学](ping-tai-he-zuo-she-de-lei-xing-xue.md)
+    * [合作拥有的在线劳务经纪与市场](ping-tai-he-zuo-she-de-lei-xing-xue/he-zuo-yong-you-de-zai-xian-lao-wu-jing-ji-yu-shi-chang.md)
+    * [市属平台合作社](ping-tai-he-zuo-she-de-lei-xing-xue/shi-shu-ping-tai-he-zuo-she.md)
+    * [用户生产者所有（Produser-owned）平台](ping-tai-he-zuo-she-de-lei-xing-xue/yong-hu-sheng-chan-zhe-suo-you-ff08-produser-owned-ff09-ping-tai.md)
+    * [工会支持的劳工平台](ping-tai-he-zuo-she-de-lei-xing-xue/gong-hui-zhi-chi-de-lao-gong-ping-tai.md)
+    * [由内而生的合作社](ping-tai-he-zuo-she-de-lei-xing-xue/you-nei-er-sheng-de-he-zuo-she.md)
+    * [平台的协定](ping-tai-he-zuo-she-de-lei-xing-xue/ping-tai-de-xie-ding.md)
 * [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
 ## 国际大势
