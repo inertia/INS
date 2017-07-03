@@ -2,9 +2,13 @@
 
 ## 前言
 
+* [我们平台合作社吧](qian-yan/wo-men-ping-tai-he-zuo-she-ba.md)
+
 ## 什么是平台合作主义
 
 * [平台合作主义挑战企业分享经济](README.md)
+  * [建立一个属于我们自己的数字化经济](jian-li-yi-ge-shu-yu-wo-men-zi-ji-de-shu-zi-hua-jing-ji.md)
+  * [序章](xu-zhang.md)
 * [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
 ## 国际大势
