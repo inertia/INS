@@ -9,6 +9,11 @@
 * [平台合作主义挑战企业分享经济](README.md)
   * [建立一个属于我们自己的数字化经济](jian-li-yi-ge-shu-yu-wo-men-zi-ji-de-shu-zi-hua-jing-ji.md)
   * [序章](xu-zhang.md)
+  * [共享经济的站点](gong-xiang-jing-ji-de-zhan-dian.md)
+    * [每个优步背后都有一个“劣”步](gong-xiang-jing-ji-de-zhan-dian/mei-ge-you-bu-bei-hou-du-you-yi-ge-201c-lie-201d-bu.md)
+    * [新从属和新指挥](gong-xiang-jing-ji-de-zhan-dian/xin-cong-shu-he-xin-zhi-hui.md)
+    * [为少数人生利](gong-xiang-jing-ji-de-zhan-dian/wei-shao-shu-ren-sheng-li.md)
+    * [违法成为一种途径](gong-xiang-jing-ji-de-zhan-dian/wei-fa-cheng-wei-yi-zhong-tu-jing.md)
 * [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
 ## 国际大势
