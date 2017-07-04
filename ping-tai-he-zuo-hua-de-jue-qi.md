@@ -102,11 +102,11 @@ _我们需要建设一个服务于所有人的经济和互联网。从合作社�
 
 [^14]: Phil Gasper, “Are Workers’ Cooperatives the Alternative to Capitalism?,” ISR, 2014.
 
-[^15]:&nbsp 同上。
+[^15]: 同上。
 
-[^16]: &ensp vimeo.com/149516216.
+[^16]: vimeo.com/149516216.
 
-[^17]: &nbsp&nbsp vimeo.com/149540417.
+[^17]: vimeo.com/149540417.
 
 [^18]: John Curl and Ishmael Reed, For All the People: Uncovering the Hidden History of Cooperation, Cooperative Movements, and Communalism in America, Oakland, CA: PM Press, 2012, 378.
 
