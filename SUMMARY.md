@@ -25,6 +25,7 @@
     * [平台的协定](ping-tai-he-zuo-she-de-lei-xing-xue/ping-tai-de-xie-ding.md)
     * [平台合作化的10项原则](ping-tai-he-zuo-she-de-lei-xing-xue/ping-tai-he-zuo-hua-de-10-xiang-yuan-ze.md)
   * [合作化的生态系统](he-zuo-hua-de-sheng-tai-xi-tong.md)
+  * [致所有人](zhi-suo-you-ren.md)
 * [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
 ## 国际大势
