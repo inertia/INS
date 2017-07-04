@@ -81,20 +81,56 @@ Scholz为这一长远变革提出了一系列具体的建议[^48]。首先，需
 
 基于互联网的分享经济在受到广泛关注的同时，也暴露出了很多问题。特别是分享出行、分享住宿、O2O送餐等代表性的分享经济行业密集曝光出损害劳动者权益、消费者权益和社区权益的事例，这一现象需要引起重视。从事分享经济的企业实际上经营的是传统的业务，他们借助互联网技术成为了具有更强垄断能力的赛博中介企业，然后凭借垄断地位推卸本应承担的责任。以盈利最大化为目标的赛博中介的存在，导致分享经济偏离其协作和分享的本意，变成了便利的剥削工具。为了解决这些问题，使分享经济回归初心，尽管有若干短期和中期的解决办法，长远的解决办法应该是消除赛博中介，建设真正去中心化的、合作共有的分享经济平台。这一过程需要政府、企业、学术、科技多方的共识与协作，它不仅是一个商业和技术的运动，同时也是一个政治与观念的运动。
 
----
-[^1]:《中国分享经济发展报告2016》，http://www.sic.gov.cn/News/86/6011.htm
+
+[^1]: 《中国分享经济发展报告2016》，http://www.sic.gov.cn/News/86/6011.htm
 
 [^2]: Harvard Business Review. \(2015\). The Sharing Economy Isn’t About Sharing at All. \[online\] Available at: [https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all](https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all) \[Accessed 2 Oct. 2016\].
 
+[^3]: 《滴滴：分享经济改变中国》，https://book.douban.com/subject/26800138/ 
+
 [^4]: Uber, UBER NEEDS PARTNERS LIKE YOU, [https://www.uber.com/a/join](https://www.uber.com/a/join)
+
+[^5]: 河狸家，招募手艺人，http://www.helijia.com/index.html 
+
+[^6]: 《人民日报》，出租车“两头难”咋变“两头甜”，http://opinion.people.com.cn/n/2015/0106/c1003-26334278.html
+
+[^7]: 《经济参考报》，“专车”围攻 出租车垄断格局破冰，http://news.xinhuanet.com/auto/2015-09/15/c_128229759.htm 
+
+[^8]: 《中国经济时报》，揭开北京出租车业垄断黑幕，http://view.news.qq.com/a/20081107/000009.htm
+
+[^9]: 财新网，余晖：出租车是什么垄断，http://opinion.caixin.com/2015-03-14/100791215.html 
+
+[^10]: 《中国经济周刊》，31省会城市出租车现状，http://bj.people.com.cn/n2/2016/0809/c233087-28801796.html 
+
+[^11]: 北汽九龙股份公司简介，http://www.beiqitaxi.com.cn/ywjy.html 
+
+[^12]: 《深圳商报》，深圳滴滴司机超过51万人，http://szsb.sznews.com/html/2016-09/02/content_3609882.htm  
+
+[^13]:  前瞻网，中国网约车用户数达1.59亿人 滴滴出行市场稳居第一，http://bg.qianzhan.com/report/detail/459/160817-3b685fe2.html
 
 [^14]: Jallat, F., & Capek, M. J. \(2001\). Disintermediation in question: New economy, new networks, new middlemen. Business Horizons, 44\(2\), 55–60. [http://doi.org/10.1016/S0007-6813\(01\)80023-9](http://doi.org/10.1016/S0007-6813%2801%2980023-9)
 
 [^15]: Harvard Business Review. \(1979\). How Competitive Forces Shape Strategy. \[online\] Available at: [https://hbr.org/1979/03/how-competitive-forces-shape-strategy](https://hbr.org/1979/03/how-competitive-forces-shape-strategy) \[Accessed 2 Oct. 2016\].
 
+[^16]:   FT中文网，优步与滴滴烧钱大战何时休，http://www.ftchinese.com/story/001068078
+
+[^17]:  《上海证券报》，滴滴大兼并背后的资本霸权，http://tech.sina.com.cn/i/2016-08-09/doc-ifxutfpc4884349.shtml 
+
+[^18]:   经济观察网，滴滴收购Uber中国背后，http://www.eeo.com.cn/2016/0801/290407.shtml 
+
+[^19]: 《经济观察报》，专家：滴滴司乘分开计价是分享经济的倒退，http://news.xinhuanet.com/2016-08/29/c_1119468595.htm  
+
+[^20]:  《南方日报》，滴滴优步合并后乘客“被涨价”，http://tech.sina.com.cn/i/2016-09-21/doc-ifxvyqwa3655008.shtml 
+
+[^21]:  36氪，Uber告诉我们：未来你不再拥有资产，拥有的只是使用资产的权限，https://36kr.com/p/216304.html 
+
 [^22]: CB Insights - Blog. \(2014\). The ‘Uber for X’ Investment Report – $1.46 Billion Deployed in the Last Four Quarters. \[online\] Available at: [https://www.cbinsights.com/blog/uber-x-industry-report-2014/](https://www.cbinsights.com/blog/uber-x-industry-report-2014/) \[Accessed 6 Oct. 2016\].
 
 [^23]: Musil, S. \(2016\). Uber drivers to remain independent contractors under settlement. \[online\] CNET. Available at: [https://www.cnet.com/news/uber-drivers-to-remain-independent-contractors-under-settlement/](https://www.cnet.com/news/uber-drivers-to-remain-independent-contractors-under-settlement/) \[Accessed 6 Oct. 2016\].
+
+[^24]:  滴滴出行，关于滴滴出行，http://www.xiaojukeji.com/website/about.html 
+
+[^25]:  河狸家，招募手艺人，http://www.helijia.com/index.html  
 
 [^26]: Slee, T. \(2014\). Why Canada should de-activate Uber. \[online\] Tom Slee. Available at: [http://tomslee.net/2014/11/why-canada-should-de-activate-uber.html](http://tomslee.net/2014/11/why-canada-should-de-activate-uber.html) \[Accessed 7 Oct. 2016\].
 
@@ -104,15 +140,43 @@ Scholz为这一长远变革提出了一系列具体的建议[^48]。首先，需
 
 [^29]: Furfaro, D. and Roberts, G. \(2016\). Uber drivers working up to 19 hours a day just to get by. \[online\] New York Post. Available at: [http://nypost.com/2016/02/07/uber-drivers-working-up-to-19-hours-a-day-just-to-get-by/](http://nypost.com/2016/02/07/uber-drivers-working-up-to-19-hours-a-day-just-to-get-by/) \[Accessed 7 Oct. 2016\].
 
+[^30]:  TechWeb，快车老司机吐槽生意难做:从收车下馆子到路边吃煎饼，http://it.sohu.com/20160914/n468391615.shtml
+
 [^31]: Sanders, S. \(2015\). California Labor Commission Rules Uber Driver Is An Employee, Not A Contractor. \[online\] NPR.org. Available at: [http://www.npr.org/sections/thetwo-way/2015/06/17/415262801/california-labor-commission-rules-uber-driver-is-an-employee-not-a-contractor](http://www.npr.org/sections/thetwo-way/2015/06/17/415262801/california-labor-commission-rules-uber-driver-is-an-employee-not-a-contractor) \[Accessed 8 Oct. 2016\].
 
+[^32]:  中青在线，法院建议“饿了么”加强员工道路交通、食品安全方面培训，http://www.chinanews.com/cj/2016/08-15/7972913.shtml 
+
+[^33]:  金杜律师事务所，利用APP运营的新型企业，劳动关系如何认定？，http://www.kwm.com/zh/cn/knowledge/insights/employment-relationship-in-mobile-app-companies-20160406
+
 [^34]: Bernhardt, A. \(2014\). Labor Standards and the Reorganization of Work: Gaps in Data and Research , \(100\), 1–28.
+
+[^35]:   《新京报》，网约车司机沉浮记，http://www.bjnews.com.cn/inside/2016/09/30/418690.html  
+
+[^36]:  光明网，外卖O2O食品安全问题频发 监管体系亟需建立，http://shipin.gmw.cn/2016-06/12/content_20512436.htm  
+
+[^37]:  《佛山日报》，短租房日益兴起 安全问题受强烈质疑，http://news.fs.fang.com/2016-08-16/22465158.htm  
+
+[^38]:  中国酒店行业联盟，反恐法通过后，短租民宿的安全问题怎么破，http://www.chiass.com/News/D2985 
 
 [^39]: Begley, S. \(2016\). Kalamazoo Uber Driver Had a 4.73 Rating Before Rampage. \[online\] TIME.com. Available at: [http://time.com/4233148/kalamazoo-uber-driver-rating-shooting-rampage](http://time.com/4233148/kalamazoo-uber-driver-rating-shooting-rampage) \[Accessed 10 Oct. 2016\].
 
 [^40]: Hern, A. \(2016\). Uber's 'safe ride fee' becomes 'booking fee' after $25m settlement over rider safety. \[online\] the Guardian. Available at: [https://www.theguardian.com/technology/2016/apr/07/uber-driver-background-check-lawsuit-passenger-safety-california](https://www.theguardian.com/technology/2016/apr/07/uber-driver-background-check-lawsuit-passenger-safety-california) \[Accessed 10 Oct. 2016\].
 
+[^41]:  《京华时报》，17岁女孩遭滴滴司机猥亵40分钟 滴滴欲给予50元补偿，http://news.xinhuanet.com/fortune/2016-07/23/c_129171755.htm 
+
+[^42]:  第一财经，滴滴回应快车司机强奸女乘客:司机此前没犯罪记录，http://finance.sina.com.cn/chanjing/gsnews/2016-04-11/doc-ifxrcizs7196855.shtml
+
+
+
 [^43]: Slee, T. \(2014\). Why Canada should de-activate Uber. \[online\] Tom Slee. Available at: [http://tomslee.net/2014/11/why-canada-should-de-activate-uber.html](http://tomslee.net/2014/11/why-canada-should-de-activate-uber.html) \[Accessed 7 Oct. 2016\].
+
+[^44]:  《经济日报》，发展分享经济 需防范潜在风险，http://jingjiribao.cn/m/jsp/m-readReort_details.jsp?id=3489 
+
+
+
+[^45]: 金杜律师事务所，利用APP运营的新型企业，劳动关系如何认定？，http://www.kwm.com/zh/cn/knowledge/insights/employment-relationship-in-mobile-app-companies-20160406
+
+
 
 [^46]: Marchi, A. and Parekh, E. \(2015\). How the sharing economy can make its case. \[online\] McKinsey & Company. Available at: [http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-sharing-economy-can-make-its-case](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-the-sharing-economy-can-make-its-case) \[Accessed 13 Oct. 2016\].
 
