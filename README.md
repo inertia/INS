@@ -27,8 +27,5 @@ Email: info@rosalux-nyc.org;电话:+1 \(917\)409-1040
 
 <p align="right">http://www.rosalux-nyc.org</p>
 
-
-http://www.rosalux-nyc.org
-
 <img src="/assets/import.png" align="middle" />
 
