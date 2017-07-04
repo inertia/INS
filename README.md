@@ -26,11 +26,9 @@ Email: info@rosalux-nyc.org;电话:+1 \(917\)409-1040
 纽约办事处有两个主要任务：解决联合国关心的问题，与北美高校、工会、社会运动和政治界的进步人士对话。
 
 
-
-<right>"http://www.rosalux-nyc.org"</right>
-
+http://www.rosalux-nyc.org
 
 
-<right>![](/assets/import.png)</right>
+![](/assets/import.png)
 
 
