@@ -46,7 +46,6 @@
   * [当今最成功的合作社之一韩国iCOOP在沪托邦合作松上的演讲](hu-tuo-bang-he-zuosong-code-for-co-ops/dang-jin-zui-cheng-gong-de-he-zuo-she-zhi-yi-han-guo-icoop-zai-hu-tuo-bang-he-zuo-song-shang-de-yan-jiang.md)
   * [合作经验分享之成都爱有戏](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-jing-yan-fen-xiang-zhi-cheng-du-ai-you-xi.md)
   * [合作社经验分享:台湾主妇联盟](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-she-jing-yan-fen-4eab3a-tai-wan-zhu-fu-lian-meng.md)
-  * [上海合作松集錦](hu-tuo-bang-he-zuosong-code-for-co-ops/shang-hai-he-zuo-song-ji-jin.md)
 * [分享经济与赛博中介](fen-xiang-jing-ji-yu-sai-bo-zhong-jie.md)
 
 ## 附录

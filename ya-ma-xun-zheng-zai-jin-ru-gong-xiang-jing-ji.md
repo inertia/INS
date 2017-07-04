@@ -28,11 +28,14 @@
 
 硅谷热衷于建设性破坏。所以让我们也回敬他们一个。因此，我们号召：把民众放到虚拟招聘大厅的中心，把利润转为社会福利。我们号召市政厅考虑像Airbnb一样运行。历史上有些美国城市就拥有且经营自己的酒店和医院。有的现在还在经营。现在是重归这段历史的时刻。
 
-在1960年代中期的纽约，浪漫派艺术家乔治·马丘纳斯（George Maciunas）鉴于自己颠沛流离的状态，开始倡导建立艺术家合作社。今天的纽约，艺术家卡洛琳·伍拉德（Caroline Woolard）用艺术逻辑改变自己和他人的生存境况。[^8]
+在1960年代中期的纽约，浪漫派艺术家乔治·马丘纳斯（George Maciunas）鉴于自己颠沛流离的状态，开始倡导建立艺术家合作社。今天的纽约，艺术家卡洛琳·伍拉德（Caroline Woolard）用艺术逻辑改变自己和他人的生存境况。[^9]
 
 摆脱Facebook、CrowdFlower和谷歌是可以做到的。企业增长和利润最大化并非唯一选择。
 
 对自己没有所有权的东西，我们很难改变。但是，合作制所有权的模式将解决诸多重要问题，比方说争取隐私和为工人争取更高工资。
+
+
+[^1]: flex.amazon.com
 
 [^2]: Sam Schechner, “Two Uber Executives Indicted in France,” Wall Street Journal, June 30, 2015, www.wsj.com.
 
@@ -48,5 +51,5 @@
 
 [^8]: Jodi Kantor and David Streitfeld, “Inside Amazon: Wrestling Big Ideas in a Bruising Workplace,” The New York Times, August 15, 2015.
 
-[^8]: carolinewoolard.com.
+[^9]: carolinewoolard.com.
 

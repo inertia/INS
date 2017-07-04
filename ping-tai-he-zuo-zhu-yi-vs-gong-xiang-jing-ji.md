@@ -86,6 +86,8 @@ Uber和airbub一类公司享受着他们的安迪沃霍尔时刻：没有任何�
 
 [^1]: Wark, McKenzie.“Digital Labor and the Anthropocene.” «DIS Magazine. N.p., n.d. Web. 29 Nov. 2014.
 
+[^2]: http://cyber.law.harvard.edu/wealth_of_networks/Paragraphs
+
 [^3]: Klein, Naomi. This Changes Everything: Capitalism vs. The Climate. Simon & Schuster, 2014. Print. 105.
 
 [^4]: Cheney, George. Values at Work: Employee Participation Meets Market Pressure at Mondragon. ILR Books/Cornell University Press, 1999. Web. 29 Nov. 2014.
