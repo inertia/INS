@@ -92,3 +92,5 @@
 图片来源：阮耀启先生分享 未经授权请勿挪作他用  
 这些东西如何做得到？所在在这里，网络或许就是一个很好的方法让我们联结在一块，让我们共同建造共同体，感谢大家。
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8BCkwUQTJ0Fw4c" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/luruiyang/129-72701704" title="重写分享经济12.9" target="_blank">重写分享经济12.9</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/luruiyang">luruiyang</a></strong> </div>
+
