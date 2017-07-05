@@ -1,8 +1,16 @@
+```
+INS aletheia #2
+
+```
+
+
+
 # 讓我們平台合作社吧
 
 編輯：黄孙权 卢瑞洋  
 翻译：陈玉洁, 卢瑞洋, 叶V  
 作者：Trebor Scholz, Thomas Dönnebrink, Ela Kagel, Darren Sharp, Neal Gorenflo, Maira Sutton, 阮耀启\(Terence Yuen\), 陈来红, 熊节, 刘飞, 金贤何(Hyunha Kim), 黄孙权
+
 
 **aletheia：An Open Source Publications series**  
 **共知开源出版系列**
