@@ -37,9 +37,15 @@
 
 [^3]: Tom Slee, What’s Yours Is Mine. New York City: OR Books, 2015.
 
+[^4]: Platformcoop.net
+
+[^5]: vimeo.com/149401422.
+
 [^6]: Sascha Lobo, “Sascha Lobo: Sharing Economy wie bei Uber ist Plattform-Kapitalismus,” Spiegel Online, March 9, 2014, www.spiegel.de.
 
 [^7]: Byung-Chul Han, Müdigkeitsgesellschaft. Berlin: Matthes & Seitz Berlin, 2010.
+
+[^8]: Livestream.com/internetsociety/platformcoop/videos/105663835.
 
 [^9]: McKenzie Wark, “Digital Labor and the Anthropocene,”DIS Magazine, accessed November 24, 2015, dismagazine.com.
 
