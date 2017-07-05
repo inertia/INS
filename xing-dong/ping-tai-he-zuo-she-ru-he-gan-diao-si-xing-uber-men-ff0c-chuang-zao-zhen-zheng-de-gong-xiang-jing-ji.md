@@ -5,9 +5,7 @@
 _雅汶之战，第一颗死星被干掉\(_[_http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo_](http://www.fanpop.com/clubs/star-wars/images/25198488/title/battle-yavin-photo）)_\)_
 
 > 作者：[Neal Gorenflo](http://www.shareable.net/users/neal-gorenflo)
->
 > [原文链接](http://www.shareable.net/blog/how-platform-coops-can-beat-death-stars-like-uber-to-create-a-real-sharing-economy)
->
 > 翻译：卢睿洋
 
 摆在眼前的是一个史诗级选择题：是平台合作社，还是死星平台？是时候做出抉择了。这也许是空前重大的经济选择，但我们中的大多数甚至不知道我们有得选。
