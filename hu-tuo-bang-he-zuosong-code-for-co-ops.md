@@ -112,7 +112,7 @@ SegmentFault \( www.sf.gg \) 是中国领先的开发者社区及服务平台，
 4. **Pasquale, Frank. 2015. **[**Black Box Society: The Secret Algorithms That Control Money and Information.**](https://www.amazon.com/Black-Box-Society-Algorithms-Information/dp/0674368274/ref=sr_1_1?ie=UTF8&qid=1471209864&sr=8-1&keywords=Black+Box+Society%3A+The+Secret+Algorithms+That+Control+Money+and+Information.) **Cambridge: Harvard University Press.**
 5. Taylor, Astra., [The People’s Platform: Taking Back Power and Culture in the Digital Age](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_1?ie=UTF8&qid=1471209892&sr=8-1&keywords=The+People’s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age) New York: Metropolitan Books, 2014.
 
-### ![](https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/A27EE1B80CAF11A251B3BFC4BE430B8B.gif?resize=768%2C574)
+![](/assets/5.1.2.png)
 
 
 
