@@ -1,3 +1,5 @@
+# 序章
+
 纵观21世纪与工作相关的所有问题，像不断膨胀的低端服务业、经济不平等、摇摇欲坠的工人权利， 其实最主要的问题是备选方案少得可怜。关于工作的未来，诸多讨论中缺乏的是如何让人们真心拥护一种新的工作方法。这篇文章就是要探讨这个新的替代方案。
 
 首先，我会反思共享经济的机会、缺陷和影响。 我用亚马逊（Amazon.com）作为案例，因为它已经坚定地参与了“共享经济”。 第二，我将描述平台合作化的崛起，并讲述真实和想象的平台合作社的例子。平台合作化是关于民主所有权模式下的互联网。第三，我将列出十项原则，为劳动者提供公平的工作机会。结尾处，我将思考这场运动的下一步可能的行动。
@@ -35,15 +37,9 @@
 
 [^3]: Tom Slee, What’s Yours Is Mine. New York City: OR Books, 2015.
 
-[^4]: Platformcoop.net
-
-[^5]: vimeo.com/149401422.
-
 [^6]: Sascha Lobo, “Sascha Lobo: Sharing Economy wie bei Uber ist Plattform-Kapitalismus,” Spiegel Online, March 9, 2014, www.spiegel.de.
 
 [^7]: Byung-Chul Han, Müdigkeitsgesellschaft. Berlin: Matthes & Seitz Berlin, 2010.
-
-[^8]: Livestream.com/internetsociety/platformcoop/videos/105663835.
 
 [^9]: McKenzie Wark, “Digital Labor and the Anthropocene,”DIS Magazine, accessed November 24, 2015, dismagazine.com.
 
