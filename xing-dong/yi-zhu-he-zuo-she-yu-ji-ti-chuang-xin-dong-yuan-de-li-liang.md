@@ -1,9 +1,7 @@
 # 艺术合作社与集体创新动员的力量
 
 > 作者 Maira Sutton
->
 > [原文链接](http://www.shareable.net/blog/art-co-ops-and-the-power-of-mobilizing-collaboration-for-creativity)
->
 > 翻译 卢睿洋
 
 
