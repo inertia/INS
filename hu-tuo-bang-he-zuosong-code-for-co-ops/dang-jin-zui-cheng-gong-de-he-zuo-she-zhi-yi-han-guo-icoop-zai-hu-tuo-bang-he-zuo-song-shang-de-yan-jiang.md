@@ -76,6 +76,6 @@ _黄孙权：我可以补充一点，现在全世界范围内的合作社大概�
 同时，iCOOP也认为对所有会员进行合作社概念的教育是非常必要的，所以每个人在注册之前都要进行先行的教育，这是每个人都是必须做的，一共有六个阶段的教育是需要注册和学习的。
 
 时间关系，在这里我主要还是简单介绍了iCOOP的一些实际操作模式，同时也带来了我们上一个年度的年度总结的宣传册（提取地址：[http://pan.baidu.com/s/1mipxuEs](http://pan.baidu.com/s/1mipxuEs)，密码：dxex），大家可以继续了解，感谢！
-[
-完整简报档](https://www.slideshare.net/luruiyang/pptco-opi-coopkorea201609271)
+
+[完整简报档](https://www.slideshare.net/luruiyang/pptco-opi-coopkorea201609271)
 
