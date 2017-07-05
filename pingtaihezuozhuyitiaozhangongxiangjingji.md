@@ -1,3 +1,5 @@
+# 平台合作主义挑战企业分享经济
+
 罗莎·卢森堡基金会（Rosa Luxemburg Stiftung）出版，纽约办事处（New York Office）  
 ，2016年1月  
 编辑：斯蒂芬妮·埃姆森（Stefanie    Ehmsen    ）和阿尔伯特·沙伦贝格（Albert    Scharenberg）  
