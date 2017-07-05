@@ -1,0 +1,22 @@
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            // "title": "平台合作主义",
+    "author": "多作者",
+    "pluginsConfig": {
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+        }
+    }
+}
