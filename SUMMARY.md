@@ -9,7 +9,7 @@
 
 ## 什么是平台合作主义
 
-* [平台合作主义挑战企业分享经济](README.md)
+* [平台合作主义挑战企业分享经济](pingtaihezuozhuyitiaozhangongxiangjingji.md)
   * [建立一个属于我们自己的数字化经济](jian-li-yi-ge-shu-yu-wo-men-zi-ji-de-shu-zi-hua-jing-ji.md)
   * [序章](xu-zhang.md)
   * [共享经济的站点](gong-xiang-jing-ji-de-zhan-dian.md)
