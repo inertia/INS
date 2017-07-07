@@ -78,7 +78,7 @@ _学习和教育_: 西班牙公司Mondragon如此成功的秘诀之一是，他�
 
 另类学习机构如何能帮助青年更好应对当今协同式工作和生活？詹妮尔∙奥尔西著作再一次涉及精髓。在她合著的书《共享方案》中，奥尔西以亲身实践的方式，演示了分享成为我们日常生活一部分的各种方式：共享住房、一切生活用品、空间、任务、育儿、运输、甚至工作。《共享方案》勾画出切实可行的基本规则，指导大学生以更互助合作的方式来生活。奥尔西的书读起来像是分享版的《全球目录》 （The Whole Earth Catalog）。
 
-[^1]: “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, accessed November 4, 2015, www.shareable.net.
+[^1]: “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, accessed November 4, 2015, www.shareable.net.
 
 [^2]: seed.coop.
 
