@@ -1,7 +1,9 @@
 # Summary
 
-*[书讯](README.md)
-*[我们平台合作社吧](qian-yan/wo-men-ping-tai-he-zuo-she-ba.md)
+## 前言
+
+* [书讯](README.md)
+* [我们平台合作社吧](qian-yan/wo-men-ping-tai-he-zuo-she-ba.md)
 
 ## 什么是平台合作主义
 
