@@ -26,7 +26,7 @@
 
 [^4]: Frank Pasquale, “Banana Republic.com” Jotwell: Cyberlaw, February 11, 2011, cyber.jotwell.com.
 
-[^5]: “U.S. Senator Mark Warner on Why We Need a New Class of Worker \(Q&A\), Re/code,” accessed November29, 2015, recode.net.
+[^5]: “U.S. Senator Mark Warner on Why We Need a New Class of Worker \(Q&A\), Re/code,” accessed November 29, 2015, recode.net.
 
 [^6]: Seth D. Harris and Alan B. Krueger, “A Proposal for Modernizing Labor Laws for Twenty-First-Century Work: The ‘Independent Worker,’” The Hamilton Project, December 2015, www.hamiltonproject.org.
 
