@@ -8,7 +8,7 @@ INS aletheia #2
 # 让我们平台合作社吧
 
 编辑：黄孙权 卢睿洋  
-翻译：陈玉洁，叶薇，卢睿洋
+翻译：陈玉洁，叶薇，卢睿洋，姚雨辰
 作者：Trebor Scholz, Thomas Dönnebrink, Ela Kagel, Darren Sharp, Neal Gorenflo, Maira Sutton, 阮耀启\(Terence Yuen\), 陈来红, 熊节, 刘飞, 金贤何(Hyunha Kim), 黄孙权
 
 
