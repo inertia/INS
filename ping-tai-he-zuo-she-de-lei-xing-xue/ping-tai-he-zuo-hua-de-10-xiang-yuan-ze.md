@@ -62,7 +62,7 @@
 
 [^7]: Ellen Huet, “How Uber’s Shady Firing Policy Could Backfire On The Company,” Forbes, accessed December 4, 2015.
 
-[^8]: Lilly Irany讨论了亚马逊土耳其机器人的情况，参见Lilly Irany, “Difference and Dependenceamong Digital Workers: The Case of Amazon Mechanical Turk,” The South Atlantic Quarterly, January 2015.
+[^8]: Lilly Irany讨论了亚马逊土耳其机器人的情况，参见Lilly Irany, “Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk,” The South Atlantic Quarterly, January 2015.
 
 [^9]: traity.com.
 
