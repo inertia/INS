@@ -51,5 +51,6 @@
 
 ## 附录
 
+* [另类经济](fu-lu/ling-lei-jing-ji.md)
 * [我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
 
