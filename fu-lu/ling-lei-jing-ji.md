@@ -361,7 +361,7 @@ _注1：参与者可能同时参与不同的实践。
 5. North, Peter \(2005\). “Scaling Alternative Economic Practices? Some Lessons from Alternative Currencies,” in Transactions of the Institute of British Geographers. Oxford: Blackwell, 221–33.
 6. Reuters \(2008\). “Financial Crisis may Increase Mental Health Woes” &lt;[http://www](http://www). reuters.com/article/2008/10/09/us-financial-health-mental-idUSTRE49839M200810 09&gt; \(accessed June 24, 2011\).
 
-[^1]: 本文选自曼纽尔·卡斯特\[Manuel Castells\]、若奥·卡拉卡\[Joao Caraca\]、古斯塔夫·卡多佐\[Gustavo Cardoso\]主编的《余波：经济危机下的文化》的第九章〈超越危机〉的第9节--超越危机：另类经济实践的浮现。
+[^1]: 本文选自曼纽尔·卡斯特\[Manuel Castells\]、若奥·卡拉卡\[Joao Caraca\]、古斯塔夫·卡多佐\[Gustavo Cardoso\]主编的《余波：经济危机下的文化》的第四章〈超越危机〉的第9节，210-251页--超越危机：另类经济实践的浮现。
 
 [^2]: 详见：www. homenatgeacatalunyaⅡ.org
 
