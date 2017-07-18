@@ -1,13 +1,13 @@
 # Summary
 
-## 前言
+## 一、前言
 
-* [书讯](README.md)
-* [我们平台合作社吧](qian-yan/wo-men-ping-tai-he-zuo-she-ba.md)
+* [\[00\] 书讯](README.md)
+* [\[01\] 前言：我们平台合作社吧](qian-yan/wo-men-ping-tai-he-zuo-she-ba.md)
 
-## 什么是平台合作主义
+## 二、什么是平台合作主义
 
-* [平台合作主义挑战企业分享经济](pingtaihezuozhuyitiaozhangongxiangjingji.md)
+* [\[02\] 平台合作主义挑战企业分享经济](pingtaihezuozhuyitiaozhangongxiangjingji.md)
   * [建立一个属于我们自己的数字化经济](jian-li-yi-ge-shu-yu-wo-men-zi-ji-de-shu-zi-hua-jing-ji.md)
   * [序章](xu-zhang.md)
   * [共享经济的站点](gong-xiang-jing-ji-de-zhan-dian.md)
@@ -27,30 +27,30 @@
     * [平台合作化的10项原则](ping-tai-he-zuo-she-de-lei-xing-xue/ping-tai-he-zuo-hua-de-10-xiang-yuan-ze.md)
   * [合作化的生态系统](he-zuo-hua-de-sheng-tai-xi-tong.md)
   * [致所有人](zhi-suo-you-ren.md)
-* [平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
+* [\[03\]  平台合作主义vs共享经济](ping-tai-he-zuo-zhu-yi-vs-gong-xiang-jing-ji.md)
 
-## 国际大势
+## 三、国际大势
 
-* [平台合作主义：一场正在崛起的国际运动](ping-tai-he-zuo-she-de-lei-xing-xue/guo-ji-da-shi/ping-tai-he-zuo-zhu-yi-ff1a-yi-chang-zheng-zai-jue-qi-de-guo-ji-yun-dong.md)
-* [“造反城市”的合作社平台联合起来——Trebor Scholz](fu-lu/201c-zao-fan-cheng-shi-201d-de-he-zuo-she-ping-tai-lian-he-qi-lai-2014-2014-trebor-scholz.md)
-* [国际联盟齐聚第二届平台合作主义大会](guojidahui.md)
+* [\[04\] 平台合作主义：一场正在崛起的国际运动](ping-tai-he-zuo-she-de-lei-xing-xue/guo-ji-da-shi/ping-tai-he-zuo-zhu-yi-ff1a-yi-chang-zheng-zai-jue-qi-de-guo-ji-yun-dong.md)
+* [\[05\] “造反城市”的合作社平台联合起来——Trebor Scholz](fu-lu/201c-zao-fan-cheng-shi-201d-de-he-zuo-she-ping-tai-lian-he-qi-lai-2014-2014-trebor-scholz.md)
+* [\[06\] 国际联盟齐聚第二届平台合作主义大会](guojidahui.md)
 
-## 行动
+## 四、行动中
 
-* [平台合作社如何干掉死星Uber们，创造真正的共享经济](xing-dong/ping-tai-he-zuo-she-ru-he-gan-diao-si-xing-uber-men-ff0c-chuang-zao-zhen-zheng-de-gong-xiang-jing-ji.md)
-* [艺术合作社与集体创新动员的力量](xing-dong/yi-zhu-he-zuo-she-yu-ji-ti-chuang-xin-dong-yuan-de-li-liang.md)
+* [\[07\] 平台合作社如何干掉死星Uber们，创造真正的共享经济](xing-dong/ping-tai-he-zuo-she-ru-he-gan-diao-si-xing-uber-men-ff0c-chuang-zao-zhen-zheng-de-gong-xiang-jing-ji.md)
+* [\[08\] 艺术合作社与集体创新动员的力量](xing-dong/yi-zhu-he-zuo-she-yu-ji-ti-chuang-xin-dong-yuan-de-li-liang.md)
 
-## 响应
+## 五、响应
 
-* [沪托邦合作松 Code for Co-ops](hu-tuo-bang-he-zuosong-code-for-co-ops.md)
+* [\[09\] 沪托邦合作松 Code for Co-ops](hu-tuo-bang-he-zuosong-code-for-co-ops.md)
   * [三个开放合作运动在香港的实践，来自阮耀启博士的分享](hu-tuo-bang-he-zuosong-code-for-co-ops/san-ge-kai-fang-he-zuo-yun-dong-zai-xiang-gang-de-shi-jian-ff0c-lai-zi-ruan-yao-qi-bo-shi-de-fen-xiang.md)
   * [当今最成功的合作社之一韩国iCOOP在沪托邦合作松上的演讲](hu-tuo-bang-he-zuosong-code-for-co-ops/dang-jin-zui-cheng-gong-de-he-zuo-she-zhi-yi-han-guo-icoop-zai-hu-tuo-bang-he-zuo-song-shang-de-yan-jiang.md)
   * [合作经验分享之成都爱有戏](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-jing-yan-fen-xiang-zhi-cheng-du-ai-you-xi.md)
   * [合作社经验分享:台湾主妇联盟](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-she-jing-yan-fen-4eab3a-tai-wan-zhu-fu-lian-meng.md)
-* [分享经济与赛博中介](fen-xiang-jing-ji-yu-sai-bo-zhong-jie.md)
+* [\[10\] 分享经济与赛博中介](fen-xiang-jing-ji-yu-sai-bo-zhong-jie.md)
 
-## 附录
+## 六、在地实践
 
-* [超越危机——另类经济实践的浮现](fu-lu/ling-lei-jing-ji.md)
-* [我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
+* [\[11\] 超越危机——另类经济实践的浮现](fu-lu/ling-lei-jing-ji.md)
+* [\[12\] 我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
 
