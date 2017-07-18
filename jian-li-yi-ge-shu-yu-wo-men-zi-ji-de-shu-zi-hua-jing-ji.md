@@ -10,11 +10,11 @@
 
 平台合作化是可能且必要的，但它绝不会必然发生。当前在线平台的所有者似乎愿意为我们提供一切，除了所有权。该是我们创建一个以民主和团结为基础的网络经济的时候了。        
                          
-<p align="right">**斯蒂芬妮·埃姆森（Stefanie Ehmsen)**
+<p align="right">斯蒂芬妮·埃姆森（Stefanie Ehmsen)
 </p>
-<p align="right">**阿尔伯特·沙伦贝格（Albert Scharenberg）**</p>
-<p align="right">**纽约办公室联合主任**</p>
-<p align="right">**2016年1月**</p>
+<p align="right">阿尔伯特·沙伦贝格（Albert Scharenberg）</p>
+<p align="right">纽约办公室联合主任</p>
+<p align="right">2016年1月</p>
 
 
 
