@@ -1,6 +1,6 @@
 # 超越危机——另类经济实践的浮现[^1]
 
-> 作者：乔安娜·科尼尔、曼纽尔·卡斯特、阿马利亚·卡德纳斯、丽萨·塞温
+> 作者：乔安娜·科尼尔、曼纽尔·卡斯特、阿马利亚·卡德纳斯、丽萨·塞温  
 > 翻译：卢睿洋
 
 ## 介绍
@@ -19,9 +19,9 @@
 
 这一假设可以解释我们的方法论，在这里先简述一下这些方法，相关技术细节请参阅本章方法论附录。首先，我们研究了加泰罗尼亚地区有意的另类经济实践的总体状况，步骤有三：
 
-我们标定了投身于这些实践的网络和组织，并依战略角色和对实践的了解，采访了70个个人。  
-2.基于这些采访，我们制作了一部纪录片[^2]，与国内和国际的更多观众交流我们的发现。  
-3.我们用这部影片激发八组座谈会的讨论，以此理解多种多样的另类经济文化中的意识构成，并与那些没有参与这种文化的个人做对比。
+1. 我们标定了投身于这些实践的网络和组织，并依战略角色和对实践的了解，采访了70个个人。
+2. 基于这些采访，我们制作了一部纪录片[^2]，与国内和国际的更多观众交流我们的发现。
+3. 我们用这部影片激发八组座谈会的讨论，以此理解多种多样的另类经济文化中的意识构成，并与那些没有参与这种文化的个人做对比。
 
 基于定性研究的结果，我们制作了调查问卷，对加泰罗尼亚地区有代表性的人群样本做了调查（受访者数为800人）。这一调查意在测定每种被标定的另类经济实践在社会中的传播程度，确定在经济危机期间促进和抑制其传播的因素。本章将呈现这些研究的成果，并阐释我们的观察的意义。
 
@@ -44,12 +44,12 @@
 | 共享育儿合作社 | 10 | 25 | 250 |
 | 种子银行网络 | 4 | 20 | 80 |
 | 基于社区的都市果园 | 40 | 15 | 600 |
-| 总计 [_注1_] | 250 | 71138 | 23286 |
-| +道德银行 [_注2_] | 4 |  | 284554 |
+| 总计 \[_注1_\] | 250 | 71138 | 23286 |
+| +道德银行 \[_注2_\] | 4 |  | 284554 |
 |  | 254 |  | 307840 |
 
-表一：加泰罗尼亚地区大部分积极投身于另类经济实践的组织类型学，对组织数量和参与者数量的估算（2008-2011）。
-_注1：参与者可能同时参与不同的实践。
+表一：加泰罗尼亚地区大部分积极投身于另类经济实践的组织类型学，对组织数量和参与者数量的估算（2008-2011）。  
+_注1：参与者可能同时参与不同的实践。  
 注2：参与者可能同时参与不同的实践。道德银行人数指的是金融合作社的成员及顾客。_
 
 ![](/assets/另类经济实践.jpg)
@@ -307,21 +307,21 @@ _注1：参与者可能同时参与不同的实践。
 
 ## 方法论附录
 
-我们的研究设计由4项不同的操作组成：  
-1.通过参与式观察和对关键人物的访谈，标定和分析另类经济实践。  
-2.基于研究中的访谈制作一部关于另类经济实践的纪录片。  
-3.组织八组座谈会，讨论另类经济实践中的价值和问题。影片用于激发讨论。  
-4.基于定性研究制定调查问卷，调查巴塞罗那人口的代表性样本（800个调查对象）。  
+1. 我们的研究设计由4项不同的操作组成：
+2. 通过参与式观察和对关键人物的访谈，标定和分析另类经济实践。
+3. 基于研究中的访谈制作一部关于另类经济实践的纪录片。
+4. 组织八组座谈会，讨论另类经济实践中的价值和问题。影片用于激发讨论。
+5. 基于定性研究制定调查问卷，调查巴塞罗那人口的代表性样本（800个调查对象）。
 
 在此我们总结了每项研究操作的特点：
 
 ### 选取另类实践中的组织和网络，采访实践中的参与者
 
-2009年10至2010年5月，我们采访了七十位另类经济实践的参与者。采访时做了影像记录和文字记录。为了挑选受访者，2009年我们首先在几个另类经济实践的组织和网络中做了参与式观察。我们建立了实践的类型学，范畴如下：生产、消费、交换、社会货币、道德银行、住房、教育、沟通、信息技术和艺术。在每个范畴下，我们挑选了特定的网络和组织，并采访了参与其中的个人。我们依据参与者本人的建议来标定最重要的实践和最重要的受访者。对那些范围最广的实践（消费合作社、交换网络、都市果园和生态农业生产者）我们选取了几个案例进行分析，有三个标准：对比三年以上和三年以下的实践；实践牵连的网络的大小；对比都市和农村。  
+2009年10至2010年5月，我们采访了七十位另类经济实践的参与者。采访时做了影像记录和文字记录。为了挑选受访者，2009年我们首先在几个另类经济实践的组织和网络中做了参与式观察。我们建立了实践的类型学，范畴如下：生产、消费、交换、社会货币、道德银行、住房、教育、沟通、信息技术和艺术。在每个范畴下，我们挑选了特定的网络和组织，并采访了参与其中的个人。我们依据参与者本人的建议来标定最重要的实践和最重要的受访者。对那些范围最广的实践（消费合作社、交换网络、都市果园和生态农业生产者）我们选取了几个案例进行分析，有三个标准：对比三年以上和三年以下的实践；实践牵连的网络的大小；对比都市和农村。
 
 大多时候，集体本身来决定谁应该接受采访，有两个标准：应该同时有男性和女性；有三年以上经验的人和三年以下经验的人应该同时存在。
-  
-所有采访都在实践发生的地点进行。采访同时，我们会观察并拍摄会议场地，可能的话还会拍摄实践本身。采访时间从40分钟到2小时不等。57%的采访在巴塞罗那进行，其中有97%在巴塞罗那的都会区进行（包括巴塞罗那市），其中3%的采访在农村进行。3%的采访在塔拉戈纳的农村进行。  
+
+所有采访都在实践发生的地点进行。采访同时，我们会观察并拍摄会议场地，可能的话还会拍摄实践本身。采访时间从40分钟到2小时不等。57%的采访在巴塞罗那进行，其中有97%在巴塞罗那的都会区进行（包括巴塞罗那市），其中3%的采访在农村进行。3%的采访在塔拉戈纳的农村进行。
 
 55%的受访者是男性；45%是女性。年龄分布如下：
 
@@ -337,14 +337,14 @@ _注1：参与者可能同时参与不同的实践。
 
 我们设置了八组座谈会。每组的流程相同。会议前大家观看纪录片《向加泰罗尼亚致敬II 》\[Homage to Catalonia II\]（一小时）。会议开始后，他们参与讨论，由研究团队依据事先准备的主题大纲来主持协调。讨论时做了录音和文字记录。座谈会的设计所依照的标准有，参与另类经济实践的强弱程度，以及社会人口组成。因为我们试图理解不同组别的文化态度，比如年轻人、退休工人、负担家庭的女性、移民。以下是我们所研究的组别：
 
-1.高度参与另类经济实践的人；  
-2.较少参与另类经济实践的人；  
-3.高参与度与低参与度混合组；  
-4.高度参与另类经济实践的母亲；  
-5.失业人员；  
-6.18-24岁的年轻人；  
-7.工人阶级退休人员；  
-8.移民。
+1. 高度参与另类经济实践的人；
+2. 较少参与另类经济实践的人；
+3. 高参与度与低参与度混合组；
+4. 高度参与另类经济实践的母亲；
+5. 失业人员；
+6. 18-24岁的年轻人；
+7. 工人阶级退休人员；
+8. 移民。
 
 除了特定年龄、性别的小组，每组中都包含不同年龄、性别和教育程度的人。移民组包括来自摩洛哥、罗马尼亚、乌拉圭、古巴和萨尔瓦多的移民。每组的参与人数在7到12人之间，只有较少参与另类经济实践的人这组是5人。座谈会在2010年11月到2011年5月间进行，通常安排在大学的教室中，失业人员、退休工人和移民组的会谈在他们各自所属协会的所在地进行。
 
@@ -354,28 +354,15 @@ _注1：参与者可能同时参与不同的实践。
 
 ## 参考文献
 
-1. Adaman, F., and Madra. Y. M. \(2002\). “Theorizing the Third Sphere: A Critique of the Persistence of the ‘Economistic Fallacy’,” Journal of Economic Issues, 36/4: 1045–78.
-2. Gibson-Graham, J. K. \(2002\). “Beyond Global vs Local: Economic Politics outside the Binary Frame,” in A. Herod and M. Wright \(eds\), Geographies of Power: Placing Scale. Oxford: Blackwell, 25–60.
-3. Gibson-Graham, J. K. \(2006\). The End of Capitalism \(as we Knew it\): A Feminist Critique of Political Economy. Minneapolis: University of Minnesota Press.
-4. Leyshon, Andrew, Lee, Roger, and Williams, Colin C. \(2003\). Alternative Economic Spaces. Newbury, CA: Sage Publications. Miller, E. \(2006\). “Other Economies are Possible: Organizing toward an Economy of Cooperation and Solidarity,” Dollars and Sense, 266 \(July–Aug.\).
-5. North, Peter \(2005\). “Scaling Alternative Economic Practices? Some Lessons from Alternative Currencies,” in Transactions of the Institute of British Geographers. Oxford: Blackwell, 221–33.
-6. Reuters \(2008\). “Financial Crisis may Increase Mental Health Woes” &lt;[http://www](http://www). reuters.com/article/2008/10/09/us-financial-health-mental-idUSTRE49839M200810 09&gt; \(accessed June 24, 2011\).
+1. Adaman, F., and Madra. Y. M. \(2002\). “Theorizing the Third Sphere: A Critique of the Persistence of the ‘Economistic Fallacy’,” _Journal of Economic Issues_, 36/4: 1045–78.
+2. Gibson-Graham, J. K. \(2002\). “Beyond Global vs Local: Economic Politics outside the Binary Frame,” in A. Herod and M. Wright \(eds\),_ Geographies of Power: Placing Scale_. Oxford: Blackwell, 25–60.
+3. Gibson-Graham, J. K. \(2006\). _The End of Capitalism \(as we Knew it\): A Feminist Critique of Political Economy_. Minneapolis: University of Minnesota Press.
+4. Leyshon, Andrew, Lee, Roger, and Williams, Colin C. \(2003\). _Alternative Economic Spaces_. Newbury, CA: Sage Publications.
+5. Miller, E. \(2006\). “Other Economies are Possible: Organizing toward an Economy of Cooperation and Solidarity,” _Dollars and Sense_, 266 \(July–Aug.\).
+6. North, Peter \(2005\). “Scaling Alternative Economic Practices? Some Lessons from Alternative Currencies,” in _Transactions of the Institute of British Geographers_. Oxford: Blackwell, 221–33.
+7. Reuters \(2008\). “Financial Crisis may Increase Mental Health Woes” &lt;[http://www](http://www). reuters.com/article/2008/10/09/us-financial-health-mental-idUSTRE49839M200810 09&gt; \(accessed June 24, 2011\).
 
 [^1]: 本文选自曼纽尔·卡斯特\[Manuel Castells\]、若奥·卡拉卡\[Joao Caraca\]、古斯塔夫·卡多佐\[Gustavo Cardoso\]主编的《余波：经济危机下的文化》的第四章〈超越危机〉的第9节，210-251页--超越危机：另类经济实践的浮现。
 
 [^2]: 详见：www. homenatgeacatalunyaⅡ.org
-
-[^3]: 这段文字整理自两次采访记录。
-
-[^4]: 在这里我们用“另类”一词作为非资本主义经济实践的缩写。
-
-[^5]: 我们特别分析了从2008年起参与到非资本主义经济实践中的人，意在聚焦经济危机后的时段。这一组调查对象是有代表性的，占收调查总人数的88%。
-
-[^6]: 我们并未询问他们何时移民到西班牙，所以他们很有可能在这个国家生活了更长时间。
-
-[^7]: 我们计算了每个调查对象参与实践项目的数量。把这个数字当作他们参与非资本主义实践程度的指标时，我们是很谨慎的，因为我们并未询问他们每天或每周实际上花了多少时间从事这些实践。
-
-[^8]: www.opina.es
-
-[^9]: accardenas@uoc.edu
 
