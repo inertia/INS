@@ -1,5 +1,9 @@
 # 前言：让我们平台合作社吧
 
+>网络社会研究所
+2017.7
+
+
 ![](/assets/1.1.jpg)
 
 尸横遍野的共享单车继Uber、airbnb、滴滴...后，再次撕破了“共享经济”的画皮，而一大波“共享”正在接近！举头海量的物资浪费，低头千姿百媚的客户端上流量滚滚，闭上眼，感到的是心智的无产阶级化（斯蒂格勒的诊断）——_**僵尸吃掉了你的脑子！**_
@@ -22,9 +26,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本著作系采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">创用 CC 姓名标示-相同方式分享 4.0 国际 授权条款</a>授权.
 
 
-<p align="right">**网络社会研究所**</p>
-
-<p align="right">**2017.7**</p>
 
 
 
