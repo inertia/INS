@@ -1,7 +1,7 @@
 # 前言：让我们平台合作社吧
 
->网络社会研究所
-2017.7
+>**网络社会研究所**
+>**2017.7**
 
 
 ![](/assets/1.1.jpg)
@@ -24,10 +24,6 @@
 
 书里中所有翻译文章，均附有原文链接，
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本著作系采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">创用 CC 姓名标示-相同方式分享 4.0 国际 授权条款</a>授权.
-
-
-
-
 
 
 
