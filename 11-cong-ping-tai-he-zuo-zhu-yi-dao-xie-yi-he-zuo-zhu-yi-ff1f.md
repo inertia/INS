@@ -4,7 +4,7 @@
 
 > 作者： Matthew Slater  
 >  原文出处：[https://blog.p2pfoundation.net/from-platform-cooperativism-to-protocol-cooperativism/2017/07/05](https://blog.p2pfoundation.net/from-platform-cooperativism-to-protocol-cooperativism/2017/07/05)  
->  翻译：卢瑞洋
+>  翻译：卢睿洋
 
 _Matthew Slater做过很多社交与辅助货币的开源软件。他是个游牧者，在他的领域中知晓很多人和项目的一手信息。2009年他与Tim Anderson共同创立了社区锻造瑞士协会（_[_Swiss association Community Forge_](http://communityforge.net/)_），这是一个时间银行和在地交换、贸易系统\(Local Exchange & Trading System简称LETS\)的免费主站。他还积极思考、教授与货币相关的问题。2013年他与Sybille Saint Girons一道创作了“_[_交易大厅游戏_](http://communityforge.net/en/trading-floor)_”。2015年他和Jem Bendell教授一同开设了“_[_金钱与社会_](http://iflas.blogspot.com/2014/12/money-and-society-mooc.html)_”慕课。2016年他与Tim Jenkin合写了共同信用（_[_Credit Commons_](http://creditcommons.net/)_）白皮书。_
 
