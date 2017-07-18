@@ -88,15 +88,15 @@ _我们需要建设一个服务于所有人的经济和互联网。从合作社�
 
 [^7]: E. G. Nadeau, The Cooperative Solution, 37.
 
-[^8]: dept.kent.edu/oeoc/oeoclibrary/emiliaromagnalong.htm.
+[^8]: http://dept.kent.edu/oeoc/oeoclibrary/emiliaromagnalong.htm.
 
-[^9]: www.buerger-energie-berlin.de/das-ziel. 
+[^9]: http://www.buerger-energie-berlin.de/das-ziel. 
 
-[^10]: fpwa.org.
+[^10]: http://fpwa.org.
 
 [^11]: Daniel Schlademan of OurWalmart at Platform Cooperativism: The Internet, Ownership, Democracy.
 
-[^12]: conferences.oreilly.com/nextcon/economy-us-2015/public/content/speakers.
+[^12]: http://conferences.oreilly.com/nextcon/economy-us-2015/public/content/speakers.
 
 [^13]: “Ver.di. Innovation Und Gute Arbeit - Digitale Arbeit,” accessed December 5, 2015, innovation-gute-arbeit.verdi.de/themen/digitale-arbeit.
 
@@ -104,9 +104,9 @@ _我们需要建设一个服务于所有人的经济和互联网。从合作社�
 
 [^15]: 同上。
 
-[^16]: vimeo.com/149516216.
+[^16]: http://vimeo.com/149516216.
 
-[^17]: vimeo.com/149540417.
+[^17]: http://vimeo.com/149540417.
 
 [^18]: John Curl and Ishmael Reed, For All the People: Uncovering the Hidden History of Cooperation, Cooperative Movements, and Communalism in America, Oakland, CA: PM Press, 2012, 378.
 

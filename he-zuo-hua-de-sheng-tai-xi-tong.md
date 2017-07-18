@@ -80,27 +80,27 @@ _学习和教育_: 西班牙公司Mondragon如此成功的秘诀之一是，他�
 
 [^1]: “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, accessed November 4, 2015, www.shareable.net.
 
-[^2]: seed.coop.
+[^2]: http://seed.coop.
 
-[^3]: goteo.org.
+[^3]: http://goteo.org.
 
 [^4]: “How Platform co-ops Can Beat Death Star Platforms to Create a Real Sharing Economy,” Shareable, accessed November 4, 2015, www.shareable.net.
 
-[^5]: Swarm.co.
+[^5]: http://Swarm.co.
 
 [^6]: Nathaniel Popper, “Dream of New Kind of Credit Union Is Extinguished by Bureaucracy,” The New York Times. November 24, 2015.
 
-[^7]: slack.externalrevenue.us.
+[^7]: http://slack.externalrevenue.us.
 
 [^8]: 这段话最初引自马克思·达纳在2015年平台合作化会议上的发言，见Max Dana’s talk at Platform Cooperativism in November 2015.
 
-[^9]: robinhoodcoop.org.
+[^9]: http://robinhoodcoop.org.
 
-[^10]: vimeo.com/149532379.
+[^10]: http://vimeo.com/149532379.
 
 [^11]: “Venture Communism,” P2P Foundation, accessed December 11, 2015, p2pfoundation.net.
 
-[^12]: vimeo.com/149381439.
+[^12]: http://vimeo.com/149381439.
 
 [^13]: “Commons-Based Reciprocity Licenses,” P2P Foundation, accessed November 8, 2015, p2pfoundation.net.
 
@@ -110,21 +110,21 @@ _学习和教育_: 西班牙公司Mondragon如此成功的秘诀之一是，他�
 
 [^16]: 维基百科基金会的总部把电子邮件系统转移到Loomio上，让180个员工实现协作式决策。
 
-[^17]: loomio.org.
+[^17]: http://loomio.org.
 
 [^18]: 对区块链技术的讨论参见：Nathan Schneider, Trebor Scholz “The Internet Needs a New Economy” The Next System Project, November 8, 2015, www.thenextsystem.org.
 
-[^19]: dcentproject.eu.
+[^19]: http://dcentproject.eu.
 
-[^20]: consensys.net.
+[^20]: http://consensys.net.
 
-[^21]: vimeo.com/149541466.
+[^21]: http://vimeo.com/149541466.
 
 [^22]: 卡梅伦•佟基伟思在平台合作化会议上的发言。见Cameron Tonkinwise speaking at Platform Cooperativism: The Internet, Ownership, Democracy, platformcoop.net.
 
 [^23]: “Badges,” MozillaWiki, May 22, 2012, wiki.mozilla.org.
 
-[^24]: murphyinstituteblog.org.
+[^24]: http://murphyinstituteblog.org.
 
-[^25]: Codesign.mit.edu.
+[^25]: http://Codesign.mit.edu.
 

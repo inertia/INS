@@ -48,11 +48,11 @@
 
 另一个挑战关乎劳工动员：所谓的1099工人跟他们的同事在午餐休息时间根本见不着。他们也不待在工会大厅。相反，多数时候他们彼此分离。“这些人想取得所有权和决策权，计划的一部分必须是增强他们的社会网络，”经济学家葆拉∙特巴洛在强调平台合作化思想时，如是说。[^12]目前，有些人尝试新形式增强工人团结，包括像turkopticon那样的设计。[^13]它是亚马逊Michanical Turk平台工人所使用的雇主信誉系统。还有Dynamo是基于请愿的Michanical Turk工人的社群。[^14]但这一切对传统的工人组织看似无用，组织平台合作社的任务也没有变得更容易。面临的挑战仍旧是：首先，如何组织分散的工人？
 
-[^1]: livestream.com/internetsociety/platformcoop/videos/104571608.
+[^1]: http://livestream.com/internetsociety/platformcoop/videos/104571608.
 
 [^2]: “Ver.di, Innovation Und Gute Arbeit - Digitale Arbeit.”
 
-[^3]: goodworkcode.org.
+[^3]: http://goodworkcode.org.
 
 [^4]: 在美国，70%以上的自由择业者称他们常常遭遇拖延支付工资。
 
@@ -64,7 +64,7 @@
 
 [^8]: Lilly Irany讨论了亚马逊土耳其机器人的情况，参见Lilly Irany, “Difference and Dependence among Digital Workers: The Case of Amazon Mechanical Turk,” The South Atlantic Quarterly, January 2015.
 
-[^9]: traity.com.
+[^9]: http://traity.com.
 
 [^10]: Galt. J. “Crypto Swartz Will Get You Paid for Your Great Content.” The CoinFront, June 23, 2014. www.disruptek.info.
 

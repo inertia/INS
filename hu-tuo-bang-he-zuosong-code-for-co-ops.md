@@ -2,6 +2,11 @@
 
 ![](https://i0.wp.com/caa-ins.org/wp-content/uploads/2016/11/3548203901-582c2c3c26828_big.jpg?w=660)
 
+## 上海合作松影片集锦
+
+可见vimeo上的影片 https://vimeo.com/206659393
+
+
 ## 活动主题
 
 如今我们生活在一个终端化的世界中，生产与消费在工业化的分工之下鸿沟相隔，我们不知自己日用的来源，不知一件艺术作品在对谁发声。生产过程对于消费者而言好比暗箱，消费的选项也由营销所导向，不由分说地轰炸着你我的个人终端。这个循环仅仅在恶性事件中暂停，随后又回到令人眼花缭乱的冷漠中。
@@ -106,11 +111,11 @@ SegmentFault \( www.sf.gg \) 是中国领先的开发者社区及服务平台，
 
 ### 二 书籍
 
-1. Ours to Hack and to Own ─ The Rise of Platform Cooperativism, A New Vision for the Future of Work and a Fairer Interne
+1. _Ours to Hack and to Own ─ The Rise of Platform Cooperativism, A New Vision for the Future of Work and a Fairer Interne_
 2. [Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy](https://www.amazon.com/Uberworked-Underpaid-Workers-Disrupting-Digital/dp/074565357X/ref=sr_1_1?ie=UTF8&qid=1471209809&sr=8-1&keywords=Uberworked+and+Underpaid%3A+How+Workers+Are+Disrupting+the+Digital+Economy) .New York City: Polity. 2016
 3. [Slee, Tom.](https://www.amazon.com/Whats-Yours-Mine-Against-Sharing-ebook/dp/B01B5EIP10/ref=sr_1_1?ie=UTF8&qid=1471209843&sr=8-1&keywords=Slee%2C+Tom.+What’s+Yours+Is+Mine.#nav-subnav) [What’s Yours Is Mine](https://www.amazon.com/Whats-Yours-Mine-Against-Sharing-ebook/dp/B01B5EIP10/ref=sr_1_1?ie=UTF8&qid=1471209843&sr=8-1&keywords=Slee%2C+Tom.+What’s+Yours+Is+Mine.#nav-subnav) New York City: OR Books, 2015.
-4. **Pasquale, Frank. 2015. **[**Black Box Society: The Secret Algorithms That Control Money and Information.**](https://www.amazon.com/Black-Box-Society-Algorithms-Information/dp/0674368274/ref=sr_1_1?ie=UTF8&qid=1471209864&sr=8-1&keywords=Black+Box+Society%3A+The+Secret+Algorithms+That+Control+Money+and+Information.) **Cambridge: Harvard University Press.**
-5. Taylor, Astra., [The People’s Platform: Taking Back Power and Culture in the Digital Age](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_1?ie=UTF8&qid=1471209892&sr=8-1&keywords=The+People’s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age) New York: Metropolitan Books, 2014.
+4. Pasquale, Frank. 2015. [_Black Box Society: The Secret Algorithms That Control Money and Information_.](https://www.amazon.com/Black-Box-Society-Algorithms-Information/dp/0674368274/ref=sr_1_1?ie=UTF8&qid=1471209864&sr=8-1&keywords=Black+Box+Society%3A+The+Secret+Algorithms+That+Control+Money+and+Information.) Cambridge: Harvard University Press.
+5. Taylor, Astra., [_The People’s Platform: Taking Back Power and Culture in the Digital Age_](https://www.amazon.com/Peoples-Platform-Taking-Culture-Digital/dp/1250062594/ref=sr_1_1?ie=UTF8&qid=1471209892&sr=8-1&keywords=The+People’s+Platform%3A+Taking+Back+Power+and+Culture+in+the+Digital+Age) New York: Metropolitan Books, 2014.
 
 ![](/assets/5.1.2.png)
 

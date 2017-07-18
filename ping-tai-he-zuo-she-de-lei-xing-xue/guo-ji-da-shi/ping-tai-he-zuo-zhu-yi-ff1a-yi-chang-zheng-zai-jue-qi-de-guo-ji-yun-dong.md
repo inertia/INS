@@ -77,7 +77,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 3. 积极共创非物质和物质共同；
 4. 在社会和政治上，要全球范围进行组织，即使是生产环节是在地的。
 
-## **如何“正确”营造平台合作社**
+**如何“正确”营造平台合作社**
 
 平台合作社尚未实现，但它们正朝着正确的方向走。Uber和airbnb对当地经济的影响，就如同大型杂货店，后者能从当地社区获得30%的价值。Uber和airbnb也是如此。他们抽取了一大部分价值，但不（再）投资汽车或公寓，他们啥都没做。他们唯一做的事情就是做了一个APP，这不是什么高科技，但他们却有大部分掌控权。
 
@@ -93,7 +93,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 ![](/assets/3.1.5.jpg)
 
-## **开放性的需求和潜力**
+**开放性的需求和潜力**
 
 这也与开源循环经济（[open source circular economy](https://oscedays.org/)）的意图相联系。Michel无法想象在缺乏开放性的情况下，循环经济如何能创造可持续性。如果每个人都固守私有物流链（logistical chain ），这将花费50年左右的时间。但是在围绕共同的良心企业家联盟的条件下，合作社变得更加容易。以新西兰的[enspiral network](http://www.enspiral.com/)为例，“企业和专家的虚拟及实体网络正在共同创造一个蓬勃发展的社会” – 他们在内部具有全面的透明度，由18家开放物流、开放账簿等的企业组成。接着这里发生了在物质世界中已经发生的事情，它被称为共识主动性（[stigmergy](https://en.wikipedia.org/wiki/Stigmergy)）：无需指令和标价的协作。看看Linux或维基百科：人们知道需要做什么，任何人都希望自由地分配时间或资源给它（Linux或维基百科）。通过开放的供应链和物流，实际上可以将这种成果移至物理领域。想象一下，这将是多么高的生产力。资本主义无法与之竞争。我们知道资本主义是无法产生维基百科或者Linux这样的东西的，这甚至已经通过计算证明了。但我们可以做到。并且我们做到了。我们可以将维基住房（Wikihouse）转变成公共碳中和住房（public carbon neutral housing）的全球平台。我们可以做到这一点。我们可以把维基汽车（Wikispeed）或类似的共伴知识生产运用到可持续交通运输中，而没有它的话，我们可能难以转向循环经济。
 
@@ -103,7 +103,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 ![](/assets/3.1.6.jpg)
 
-## **\#platformCoopBerlin第一次会议报告**
+**\#platformCoopBerlin第一次会议报告**
 
 3小时的工作坊由两部分构成，每部分90分钟。
 
@@ -111,7 +111,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 晚上的第二部分，要求参与者以barcamp的形式组织起来。barcamp演变成五组工作坊，最后一轮结束，呈现每组的结果。随着关于学习，发现和新兴模式的讨论，这个工作坊的正式环节结束。 晚上的其余时间大家聊天吃喝。
 
-### **都有谁在？**
+**有谁在？**
 
 第一次柏林倡议会汇集了50多人：
 
@@ -158,27 +158,27 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 ![](/assets/3.1.7.jpg)
 
-## **开放barcamp工作组都关于什么？**
+**开放barcamp工作组都关于什么？**
 
-### 1. 为什么是平台？集中的平台vs分散的网络
+** 1. 为什么是平台？集中的平台vs分散的网络**
 
 几乎每个人都喜欢合作主义的概念，但有些人也批评平台的概念。 诸如Jolocom等倡议者力求分散的、自主的节点，赞成网络概念，而不是集中的平台。 来自Fairmondo的Felix Weth应对挑战，并为争论带来了另一个视角：我们必须格局宏达，才能真正替代私有的大型用户平台。这些是该工作组讨论的主要问题：我们能通过创建自己的平台来击败跨国公司吗？ 在运营快速成长的国际平台时，我们是否愿意遵守我们的开放和安全原则？ 分散的自治组织网络是唯一可行和可持续的解决方案吗？
 
 ![](/assets/3.1.8.jpg)
 
-### 2. 图绘生态系统：人员和平台概述
+** 2. 图绘生态系统：人员和平台概述**
 
 在这组，Adrien Labaeye呼吁团体开始绘制平台生态系统。 “我们必须知道哪里有什么，我们可以与谁合作”。他是[transformap](http://transformap.co/)庞大工作组中的一员，那是一个技术-社会架构，致力于共同转型的可视化。 工作组试图定义基本标准，以此收集数据创建地图。Adrien Labaeye介绍了第一个元地图（[metamap](https://metamaps.cc/maps/1934)），囊括了平台合作社领域或相关领域的概念、工具、目录、行动家、平台、运动、基金会和其他实体。
 
-### 3. 连结生态系统－现有平台的协同工作能力
+ **3. 连结生态系统－现有平台的协同工作能力**
 
 这一组，主要由各种现有平台的程序员组成，讨论了平台之间的协同工作能力和协作条款、机遇和困难。 其中一个结论是，技术和人际问题都是建立合作和合作思维的关键。 进一步的合作指日可待。
 
-### 4. 城际联盟
+**4. 城际联盟**
 
 讨论了组建城际联盟的愿景，城际协力，通过开源及开放式制作者（open makers ）运动为公民创造一个平台，确保在平台上或通过平台产生的资金/价值扎根在该地区。 由于单个人单一时间只能待在一个城市，开发昂贵的专利相互竞争没什么意义，并不明智，所以城市联盟开始集资基建，协同创建共同的核心平台，这才是理想的、合理的。 基于公平和团结，富裕的城市和实体将贡献更多，贫穷的相对更少。 最后，每个成员都献出所能，汲取所需。
-
-### 5. 可持续性
+**
+5. 可持续性**
 
 第五组面对另一个大话题：可持续性。以可持续性为主要标准当然重要，行动者自身的持续同样重要，需要避免耗尽自己。 这一组提议创建一个社会宪章，涉及一系列价值和衡量标准，要贯彻到任何行动中。
 
@@ -186,11 +186,11 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 ![](/assets/3.1.10.jpg)
 
-## **如何整合合作社服务的用户？如何创建共伴的原则？**
+**如何整合合作社服务的用户？如何创建共伴的原则？**
 
 到目前为止，合作社领域尚未广为人知，也没有在快速增长的共享协作经济和数字平台上发挥作用。共享和协作经济对合作社几乎不了解，在涉及到所有权和治理模式时，宁愿倾向于旧系统。将两个分离的领域结合在一起，展现并探索其重叠部分的潜力，是这一系列会议（＃PlatformCoop）、活动和出版的主要意图和目标。Michel Bauwens，以及来自其中一个或两个领域的众多知识渊博经验丰富的参与者，在\#PlatformCoopBerlin初次会面，这是一个非常好的开始，它推动的势头超出柏林本地，影响了其他地方的平台合作社和行动者。进一步的集中（\# Convergence ）及相互学习和实验，波及更广泛的观众和政治领域，已经列入下次活动的计划表。
 
-## **下一步**
+**下一步**
 
 计划表第一项：培养围绕＃PlatformCoop的话题和（当地的）社区（欢迎反馈意见，推荐和参与。）
 
@@ -202,7 +202,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 * 汇集指导方针，分享专业知识。
 * 为相互学习和支持建立基础设施/空间/论坛。
 
-## **PlatformCoop活动、主题、团队及URL链接。**
+**PlatformCoop活动、主题、团队及URL链接。**
 
 过去和将来[＃PlatformCoopBerlin的活动](https://docs.google.com/document/d/1fUH5Vigc9f52xDMiIeDeNs41lKP2np9X9oNrNKwBrdg/edit?usp=sharing)
 
@@ -273,7 +273,7 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 * 心照不宣的未来：在Volksbuehne举办平台合作主义24小时工作坊。Trebor Scholz, Ela Kagel等人
 
-### 过往活动
+**过往活动**
 
 2016-03-04
 
@@ -303,29 +303,25 @@ Michel双手赞成开放合作社（[open cooperatives](http://p2pfoundation.net
 
 * Michel Bauwens特别[午餐会话](http://platformcoop.net/schedule/special-lunch-session-with-michel-bauwens)：为共同经济而设的另类基础设施环境下的平台合作主义@纽约平台合作主义会议Michel Bauwens, Thomas Dönnebrink: 记录:[会议](http://platformcoop.net/participants/thomas-doennebrink/)[演示](http://de.slideshare.net/doennebrink/platform-cooperativism-special-lunch-session-with-michel-bauwens-response-thomas-dnnebrink-european-experiments-with-worker-ownership-and-selfgovernance-55554223/)[视频](https://livestream.com/internetsociety/platformcoop/videos/105677936)
 
-### **鸣谢**
+**鸣谢**
 
 **作者：**
 
 [Thomas Dönnebrink](https://www.linkedin.com/in/thomasdoennebrink), thomas@ouishare.net
-
 [Ela Kagel](https://www.linkedin.com/in/ela-kagel-a09459111/en), ela@supermarkt-berlin.net
 
 **文本贡献人：**
 
 [Andreas Arnold](https://www.linkedin.com/in/andreasarnold1/en), andreas@leihbar.net
-
 [Adrien Labaeye](https://www.linkedin.com/in/adrien-labaeye-9a12b512),adrienlabaeye@gmail.com
 
 **图像记录：**
 
 [Joy Lohmann](http://www.artlab4.de/), j.lohmann@artlab4.de
-
 [Friederike Abitz](https://friederikeabitz.com/), friederikeabitz@gmail.com
 
 **图像设计：**
 
 Jammrath – Produkt / Gra k /[Text ](http://jammrath.de/)
-
 post@jammrath.de
 

@@ -2,7 +2,7 @@
 
 > 采访者 Matthieu Lietaert（ML）  
 > 受访者 Trebor Scholz（TS）  
-> [原文](http://www.shareable.net/blog/bringing-the-platform-co-op-rebel-cities-together-an-interview-with-trebor-scholz)  
+> [原文出处](http://www.shareable.net/blog/bringing-the-platform-co-op-rebel-cities-together-an-interview-with-trebor-scholz)  
 > 翻译 卢睿洋
 
 最近我有幸采访Trebor Scholz，他是新学院大学文化与媒体专业的副教授，也是新书《优步化和低薪化：工人如何打断数码经济（Uber-Worked and Underpaid: How Workers Are Disrupting the Digital Economy）》（2016年polity出版）的作者。他最近在欧洲游走讲述平台合作主义。

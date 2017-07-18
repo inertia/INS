@@ -33,5 +33,5 @@
 
 [^7]: Steve Waldman, “1099 as Antitrust,” interfluidity, accessed November 29, 2015, www.interfluidity.com.
 
-[^8]: livestream.com/internetsociety/platformcoop/videos/105162259.
+[^8]: http://livestream.com/internetsociety/platformcoop/videos/105162259.
 

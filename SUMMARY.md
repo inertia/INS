@@ -48,9 +48,10 @@
   * [合作经验分享之成都爱有戏](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-jing-yan-fen-xiang-zhi-cheng-du-ai-you-xi.md)
   * [合作社经验分享:台湾主妇联盟](hu-tuo-bang-he-zuosong-code-for-co-ops/he-zuo-she-jing-yan-fen-4eab3a-tai-wan-zhu-fu-lian-meng.md)
 * [\[10\] 分享经济与赛博中介](fen-xiang-jing-ji-yu-sai-bo-zhong-jie.md)
+* [\[11\] 从平台合作主义到协议合作主义？](11-cong-ping-tai-he-zuo-zhu-yi-dao-xie-yi-he-zuo-zhu-yi-ff1f.md)
 
 ## 六、在地实践
 
-* [\[11\] 超越危机——另类经济实践的浮现](fu-lu/ling-lei-jing-ji.md)
-* [\[12\] 我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
+* [\[12\] 超越危机——另类经济实践的浮现](fu-lu/ling-lei-jing-ji.md)
+* [\[13\] 我们合作社吧](fu-lu/wo-men-he-zuo-she-ba.md)
 

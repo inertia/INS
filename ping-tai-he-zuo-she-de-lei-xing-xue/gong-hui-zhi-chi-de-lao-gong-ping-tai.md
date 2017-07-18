@@ -10,5 +10,5 @@
 
 [^1]: Jack Triplett, The Measurement of Labor Cost, University Of Chicago Press, 1983, 101. And for a more recent discussion by the Economist: www.economist.com.
 
-[^2]: cadateamsters.org.
+[^2]: http://cadateamsters.org.
 

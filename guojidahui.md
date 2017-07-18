@@ -1,9 +1,8 @@
 # 国际联盟齐聚第二届平台合作主义大会
 
 > 作者：Darren Sharp  
-> [原文链接](http://www.shareable.net/blog/international-consortium-launched-at-second-platform-cooperativism-conference)  
+> [原文出处](http://www.shareable.net/blog/international-consortium-launched-at-second-platform-cooperativism-conference)  
 > 翻译：卢睿洋
-
 
 
 第二届平台合作主义大会，“构建合作网络”，于11月11-13日在纽约新学院和纽约市政厅Civic Hall（civichall.org）举行。平台合作主义基于工人团结原则，是一场寻求互联网平台的民主所有制、集体管理的运动。去年的首次大会由超过1000人出席，被称为“合作网络之出柜晚会”。今年这次是相对小规模的（会议直播有2000观众），行动导向的会议，要落实向着合作网络的转变，包括启动平台合作主义联盟，从而支持运动继续展开。

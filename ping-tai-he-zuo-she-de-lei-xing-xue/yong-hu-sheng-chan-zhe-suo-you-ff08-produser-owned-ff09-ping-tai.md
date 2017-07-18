@@ -12,9 +12,9 @@ Stocksy是一家摄影库存图片合作社。它归艺术家们所有。[^3]合
 
 [^1]: 用户生产（produsage）一词由 Axel Bruns 提出。参见 Blogs, Wikipedia, Second Life, and Beyond: From Production to Produsage, New York: Peter Lang Publishing Inc., 2008.
 
-[^2]: resonate.io/2016/.
+[^2]: http://resonate.io/2016/.
 
-[^3]: www.stocksy.com.
+[^3]: http://www.stocksy.com.
 
-[^4]: membersmedia.net
+[^4]: http://membersmedia.net
 

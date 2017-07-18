@@ -1,6 +1,6 @@
 # 平台合作主义挑战企业分享经济
 
-**作者：Trebor Scholz
+>**作者：Trebor Scholz
 翻译：陈玉洁**
 
 罗莎·卢森堡基金会（Rosa Luxemburg Stiftung）出版，纽约办事处（New York Office），2016年1月

@@ -1,4 +1,4 @@
-### 亚马逊正在进入共享经济
+## 亚马逊正在进入共享经济
 
 亚马逊的年龄勉强超出21岁的法定饮酒年龄。在这个数字经济年代，它却是最古老的互联网公司之一。亚马逊的网上书店1994年开张，它也在加入“共享经济”。跟优步不同，今天无数企业都照着亚马逊的蓝本发家。残酷的精灵已被放出，以亚马逊Michanical Turk为代表的众包理念，正在被CrowdFlower和 99Designs等成百上千个公司争相模仿。
 
@@ -35,7 +35,7 @@
 对自己没有所有权的东西，我们很难改变。但是，合作制所有权的模式将解决诸多重要问题，比方说争取隐私和为工人争取更高工资。
 
 
-[^1]: flex.amazon.com
+[^1]: http://flex.amazon.com
 
 [^2]: Sam Schechner, “Two Uber Executives Indicted in France,” Wall Street Journal, June 30, 2015, www.wsj.com.
 
@@ -51,5 +51,5 @@
 
 [^8]: Jodi Kantor and David Streitfeld, “Inside Amazon: Wrestling Big Ideas in a Bruising Workplace,” The New York Times, August 15, 2015.
 
-[^9]: carolinewoolard.com.
+[^9]: http://carolinewoolard.com.
 
