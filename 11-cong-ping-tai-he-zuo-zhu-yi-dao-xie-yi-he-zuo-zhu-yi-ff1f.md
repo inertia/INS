@@ -1,10 +1,10 @@
-# 从平台合作主义到协议合作主义？
+\# 从平台合作主义到协议合作主义？
 
 ![](/assets/31818616-Word-cloud-protocol-Stock-Photo-1.jpg)
 
 > 作者： Matthew Slater  
->  原文出处：[https://blog.p2pfoundation.net/from-platform-cooperativism-to-protocol-cooperativism/2017/07/05](https://blog.p2pfoundation.net/from-platform-cooperativism-to-protocol-cooperativism/2017/07/05)  
->  翻译：卢睿洋
+> [原文出处](https://blog.p2pfoundation.net/from-platform-cooperativism-to-protocol-cooperativism/2017/07/05)  
+> 翻译：卢睿洋
 
 _Matthew Slater做过很多社交与辅助货币的开源软件。他是个游牧者，在他的领域中知晓很多人和项目的一手信息。2009年他与Tim Anderson共同创立了社区锻造瑞士协会（_[_Swiss association Community Forge_](http://communityforge.net/)_），这是一个时间银行和在地交换、贸易系统\(Local Exchange & Trading System简称LETS\)的免费主站。他还积极思考、教授与货币相关的问题。2013年他与Sybille Saint Girons一道创作了“_[_交易大厅游戏_](http://communityforge.net/en/trading-floor)_”。2015年他和Jem Bendell教授一同开设了“_[_金钱与社会_](http://iflas.blogspot.com/2014/12/money-and-society-mooc.html)_”慕课。2016年他与Tim Jenkin合写了共同信用（_[_Credit Commons_](http://creditcommons.net/)_）白皮书。_
 
@@ -31,8 +31,6 @@ _Matthew Slater做过很多社交与辅助货币的开源软件。他是个游�
 ## 超越平台，走向协议
 
 ![](/assets/屏幕快照-2017-07-11-上午10.03.26.png)"巴伦［Paul Barran］在1960年代初期构造的三种网络进路仍然存在：中心化（左）、去中心化（中）、分布式网络（右）。"
-
-
 
 我想展开讲讲下面这个观点：
 
@@ -78,7 +76,7 @@ Uber近乎垄断的局面靠的是难以想象资金渠道，它本身拥有不�
 
 关于拱廊城市（[Arcade City](https://arcade.city/)）的[这篇文章](https://cointelegraph.com/news/arcade-city-decentralized-blockchain-based-answer-to-uber)已经说得很清楚了：
 
-![](https://i0.wp.com/caa-ins.org/wp-content/uploads/2017/07/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7-2017-07-13-%E4%B8%8B%E5%8D%883.27.17.png?resize=300%2C211)
+![](/assets/屏幕快照 2017-07-13 下午3.27.17副本.jpg)
 
 最终拱廊城市将成为一个由以太只能合约构成的协议，将提供全球物流网，整个应用软件和商业的的生态系统都在我们的基础设施之上运行。SMTP（简单邮件传输协议）是用来传邮件的，而拱廊城市将实现分布式物流。
 
@@ -104,11 +102,11 @@ _译注：这篇激进的文章在P2P foundation上引发了讨论，以下挑�
 >
 > 值得注意的是，我们看到平台合作社正通过[联合式网络](https://en.wikipedia.org/wiki/Federation_%28information_technology%29)的方式扩展，而联合式在一定意义上是一种协议策略，与合作传统很类似。John Perry Barlow的世界从未实现。去中心化的技术在缺少去中心化的所有权时，只会中心化。而这就是我们所挑战的真实世界。
 
-[DANIEL HARRIS ](https://www.linkedin.com/in/dahacouk)
+[DANIEL HARRIS ](https://www.linkedin.com/in/dahacouk)
 
 > 很棒的文章！很高兴看到你（和其他人）开始认真思考把开放协议用于创造更美好的世界。
 >
-> 你说你“还没看到它（开放协议）在平台合作主义领域的应用”。实际上，我认为你可能见过但当时没有留意。2015年10月惠斯勒影响力经济峰会（Impact Economy Summit）上，我写过一个小文档来回答Michel Bauwens。它叫“[相互操作者的开放协议](https://docs.google.com/document/d/1jQenVEXzn8S8BpLXLgqai3t7EOX21D1Unl7bS3nBgCA)”  。你可能没看到。经过一番解释，Michel也明白了我的意思。同时你还可以看看我[后来谈的东西](https://youtu.be/HjTW2nZNa6s?t=4m30s)。
+> 你说你“还没看到它（开放协议）在平台合作主义领域的应用”。实际上，我认为你可能见过但当时没有留意。2015年10月惠斯勒影响力经济峰会（Impact Economy Summit）上，我写过一个小文档来回答Michel Bauwens。它叫“[相互操作者的开放协议](https://docs.google.com/document/d/1jQenVEXzn8S8BpLXLgqai3t7EOX21D1Unl7bS3nBgCA)”  。你可能没看到。经过一番解释，Michel也明白了我的意思。同时你还可以看看我[后来谈的东西](https://youtu.be/HjTW2nZNa6s?t=4m30s)。
 >
 > 很多原创理念都来自2014年阿姆斯特丹的[CollabCamp](http://collab.camp/)。你知道我在运营的Freewheelers是一个国际共乘网站。几年前在[OuiShare](http://ouishare.net/en)上，我花了很多时间和别的共乘公司讨论通过创造开放协议来运营。可惜的是大家没什么热情。你有类似的想法我非常激动。已经有很多很多的组织做了很多工作来打造这项技术。投入很多但产出很少。无论如何，我们都能在前人铺就的基础上继续。我的网络已经有5万用户，联手一把如何？！
 >
@@ -118,6 +116,5 @@ _译注：这篇激进的文章在P2P foundation上引发了讨论，以下挑�
 >
 > 我当前的任务是把落实我在惠斯勒谈的东西。Kendraio奇迹般地获得了欧洲和谷歌提供的69万欧元资金，用于接下来的三年。所以我现在有些资源来搭建它了。接下来的三年，我得继续筹到更多钱来确保我们的废墟运转良好！
 
-  
 
 
