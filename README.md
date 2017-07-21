@@ -10,7 +10,7 @@ INS aletheia #2
 
 翻译：**陈玉洁，叶薇，卢睿洋，姚雨辰**
 
-作者：**Trebor Scholz, Thomas Dönnebrink, Ela Kagel, Darren Sharp, Neal Gorenflo, Maira Sutton, 阮耀启\(Terence Yuen\), 陈来红, 熊节, 刘飞, 金贤何\(Hyunha Kim\), 黄孙权**
+作者：**Trebor Scholz, Thomas Dönnebrink, Ela Kagel, Darren Sharp, Neal Gorenflo, Maira Sutton, 阮耀启\(Terence Yuen\), 陈来红, 熊节, 刘飞, 金贤何\(Hyunha Kim\), Matthew Slater, Joana Conill, Amalia Cardenas, Lisa Servon, 黄孙权**
 
 平面设计： **丁明阳**
 
