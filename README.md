@@ -1,10 +1,12 @@
-```
+# 讓我們平台合作社吧
+
+```text
 INS aletheia #2
 ```
 
-# 让我们平台合作社吧
+## 让我们平台合作社吧
 
-![](/cover.jpg)
+![](.gitbook/assets/cover.jpg)
 
 编辑：**黄孙权， 卢睿洋**
 
